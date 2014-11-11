@@ -1,0 +1,103 @@
+body {
+            font-family: Arial,sans-serif;
+            background: #F4F0CB;
+			margin:0;
+        }
+		
+		#wrapper{
+			width:1280px;
+			margin: 0 auto;
+			margin-top:50px;
+		}
+
+h1.tabacco-title{
+text-align:center;
+color:#745041;
+margin: 0 0 20px 0;
+}
+
+        #tabacco {
+            background: #3b3a3a;
+            height: 375px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+            #tabacco ul.tabs-holder {
+                display: inline-block;
+                position: relative;
+                height: 75px;
+                list-style: none;
+                margin: 0;
+            }
+
+                #tabacco ul.tabs-holder li {
+                    position: absolute;
+                    text-align: center;
+                    float: left;
+                    cursor: pointer;
+                    background-color: #745041;
+                }
+
+                    #tabacco ul.tabs-holder li:hover, #tabacco ul.tabs-holder li.selected {
+                        background-color: #8B6453;
+                    }
+
+                    #tabacco ul.tabs-holder li.dark {
+                        background-color: #B3A580;
+                    }
+
+                        #tabacco ul.tabs-holder li.dark:hover, #tabacco ul.tabs-holder li.dark.selected {
+                            background-color: #C7BDA6;
+                        }
+
+                    #tabacco ul.tabs-holder li .tab-header {
+                        height: 75px;
+                        width: 100%;
+                    }
+
+                        #tabacco ul.tabs-holder li .tab-header span {
+                            color: #EEE;
+                            font-weight: bold;
+                            line-height: 4;
+                        }
+
+                    #tabacco ul.tabs-holder li.selected .tab-header span {
+                        float: left;
+                        margin-left: 30px;
+                        font-size: 20px;
+                        color: #FFF;
+                        line-height: 3.5;
+                    }
+
+                    #tabacco ul.tabs-holder li .preview-content {
+                        height: 300px;
+                        display: inline-block;
+                        background-color: #eadada;
+                        color: #745041;
+                        line-height: 13;
+                    }
+
+            #tabacco .tabs-content-holder {
+                display: none;
+                position: absolute;
+                top: 75px;
+                height: 300px;
+                width: 100%;
+                background-color: #adadad;
+				background:url('../images/tobacco.jpg') no-repeat;
+            }
+
+                #tabacco .tabs-content-holder ul {
+                    margin: 0;
+                    padding: 0;
+                }
+
+                    #tabacco .tabs-content-holder ul li.content-box {
+                        display: none;
+                        color: #FFF;
+						font-weight:bold;
+                        list-style: none;
+                        text-align: center;
+                        line-height: 15;
+                    }
