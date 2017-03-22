@@ -1,0 +1,6 @@
+C:\Projects\TeamTrack\TeamTrack\bin\TeamTrack.dll.config
+C:\Projects\TeamTrack\TeamTrack\bin\TeamTrack.dll
+C:\Projects\TeamTrack\TeamTrack\bin\TeamTrack.pdb
+C:\Projects\TeamTrack\TeamTrack\obj\Debug\TeamTrack.csprojResolveAssemblyReference.cache
+C:\Projects\TeamTrack\TeamTrack\obj\Debug\TeamTrack.dll
+C:\Projects\TeamTrack\TeamTrack\obj\Debug\TeamTrack.pdb
