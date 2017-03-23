@@ -1,0 +1,362 @@
+2016-08-12 16:52:07.2844 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 16:52:25.0547 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 16:52:25.2129 DEBUG Hosting starting
+2016-08-12 16:52:25.3273 DEBUG Hosting started
+2016-08-12 16:52:25.4121 DEBUG Connection id "0HKU2MVI4ER3G" started.
+2016-08-12 16:52:25.4121 DEBUG Connection id "0HKU2MVI4ER3F" started.
+2016-08-12 16:52:25.5082 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 16:52:25.5082 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 16:52:25.8164 DEBUG Request did not match any routes.
+2016-08-12 16:52:25.8164 DEBUG Request did not match any routes.
+2016-08-12 16:52:25.8434 INFO Request finished in 357.1694ms 404 
+2016-08-12 16:52:25.8434 INFO Request finished in 357.1659ms 404 
+2016-08-12 16:52:25.8764 DEBUG Connection id "0HKU2MVI4ER3G" completed keep alive response.
+2016-08-12 16:52:25.8764 DEBUG Connection id "0HKU2MVI4ER3F" completed keep alive response.
+2016-08-12 16:52:29.6508 INFO Request starting HTTP/1.1 GET http://localhost:20584/default/seed  
+2016-08-12 16:52:29.6508 DEBUG Request did not match any routes.
+2016-08-12 16:52:29.6508 INFO Request finished in 7.0073ms 404 
+2016-08-12 16:52:29.6508 DEBUG Connection id "0HKU2MVI4ER3G" completed keep alive response.
+2016-08-12 16:53:01.5361 INFO Request starting HTTP/1.1 GET http://localhost:20584/seed  
+2016-08-12 16:53:01.5411 DEBUG Request did not match any routes.
+2016-08-12 16:53:01.5411 INFO Request finished in 7.976ms 404 
+2016-08-12 16:53:01.5411 DEBUG Connection id "0HKU2MVI4ER3F" completed keep alive response.
+2016-08-12 16:53:26.1834 INFO Request starting HTTP/1.1 GET http://localhost:20584/seed  
+2016-08-12 16:53:26.1834 DEBUG Request did not match any routes.
+2016-08-12 16:53:26.1834 INFO Request finished in 6.181ms 404 
+2016-08-12 16:53:26.1834 DEBUG Connection id "0HKU2MVI4ER3G" completed keep alive response.
+2016-08-12 16:53:29.7473 INFO Request starting HTTP/1.1 GET http://localhost:20584/default/seed  
+2016-08-12 16:53:29.7473 DEBUG Request did not match any routes.
+2016-08-12 16:53:29.7473 INFO Request finished in 6.1459ms 404 
+2016-08-12 16:53:29.7473 DEBUG Connection id "0HKU2MVI4ER3F" completed keep alive response.
+2016-08-12 16:53:44.4374 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 16:53:44.4515 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 16:53:44.5065 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 16:53:44.5876 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 16:53:49.3574 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:53:49.4201 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 16:53:49.4472 DEBUG No information found on request to perform content negotiation.
+2016-08-12 16:53:49.4472 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 16:53:49.4472 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 16:53:49.4892 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 4977.5115ms
+2016-08-12 16:53:49.4982 INFO Request finished in 5060.1753ms 400 text/plain; charset=utf-8
+2016-08-12 16:53:49.4982 DEBUG Connection id "0HKU2MVI4ER3G" completed keep alive response.
+2016-08-12 16:54:01.9734 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 16:54:01.9734 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 16:54:01.9845 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 16:54:01.9845 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 16:55:50.7825 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 16:55:50.9486 DEBUG Hosting starting
+2016-08-12 16:55:51.0316 DEBUG Hosting started
+2016-08-12 16:55:51.2281 DEBUG Connection id "0HKU2N1FF8T5G" started.
+2016-08-12 16:55:51.2281 DEBUG Connection id "0HKU2N1FF8T5F" started.
+2016-08-12 16:55:51.3202 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 16:55:51.3202 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 16:55:51.3870 INFO Request finished in 76.521ms 200 
+2016-08-12 16:55:51.4280 DEBUG Connection id "0HKU2N1FF8T5F" completed keep alive response.
+2016-08-12 16:55:51.6112 DEBUG Request did not match any routes.
+2016-08-12 16:55:51.6302 INFO Request finished in 335.7188ms 404 
+2016-08-12 16:55:51.6302 DEBUG Connection id "0HKU2N1FF8T5G" completed keep alive response.
+2016-08-12 16:55:57.1494 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 16:55:57.1644 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 16:55:57.2185 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 16:55:57.2965 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 16:56:00.7415 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.8684 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.8824 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.8930 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.8930 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9150 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9280 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9280 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9503 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9593 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9733 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9733 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:00.9953 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:01.0043 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:01.0183 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:01.0183 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:56:01.0331 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-12 16:56:01.0621 DEBUG No information found on request to perform content negotiation.
+2016-08-12 16:56:01.0711 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 16:56:01.0711 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 16:56:01.1102 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 3884.2509ms
+2016-08-12 16:56:01.1192 INFO Request finished in 3970.4173ms 200 text/plain; charset=utf-8
+2016-08-12 16:56:01.1272 DEBUG Connection id "0HKU2N1FF8T5F" completed keep alive response.
+2016-08-12 16:56:58.2090 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 16:56:58.2090 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 16:56:58.2090 DEBUG Connection id "0HKU2N1FF8T5G" received FIN.
+2016-08-12 16:56:58.2260 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 16:56:58.2260 DEBUG Connection id "0HKU2N1FF8T5G" disconnecting.
+2016-08-12 16:56:58.2443 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 16:56:58.2443 DEBUG Connection id "0HKU2N1FF8T5G" sending FIN.
+2016-08-12 16:57:02.6961 DEBUG Connection id "0HKU2N1FF8T5G" sent FIN with status "0".
+2016-08-12 16:57:02.7352 DEBUG Connection id "0HKU2N1FF8T5G" stopped.
+2016-08-12 16:57:25.8122 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:57:55.1362 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:04.1492 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:05.5154 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:09.0723 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:10.1290 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.7809 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.7899 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.7899 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8129 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8259 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8259 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8490 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8586 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8722 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8722 WARN User  validation failed: InvalidUserName.
+2016-08-12 16:58:11.8872 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-12 16:58:11.8872 DEBUG No information found on request to perform content negotiation.
+2016-08-12 16:58:11.9012 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 16:58:11.9012 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 16:58:11.9012 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 73673.0921ms
+2016-08-12 16:58:11.9222 INFO Request finished in 73709.2809ms 200 text/plain; charset=utf-8
+2016-08-12 16:58:11.9222 DEBUG Connection id "0HKU2N1FF8T5F" completed keep alive response.
+2016-08-12 16:59:43.3176 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 16:59:43.4777 DEBUG Hosting starting
+2016-08-12 16:59:43.5818 DEBUG Hosting started
+2016-08-12 16:59:43.6189 DEBUG Connection id "0HKU2N3KNGTO9" started.
+2016-08-12 16:59:43.6189 DEBUG Connection id "0HKU2N3KNGTO8" started.
+2016-08-12 16:59:43.7119 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 16:59:43.7119 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 16:59:43.7863 INFO Request finished in 76.9386ms 200 
+2016-08-12 16:59:43.8253 DEBUG Connection id "0HKU2N3KNGTO8" completed keep alive response.
+2016-08-12 16:59:44.0124 DEBUG Request did not match any routes.
+2016-08-12 16:59:44.0354 INFO Request finished in 347.3538ms 404 
+2016-08-12 16:59:44.0354 DEBUG Connection id "0HKU2N3KNGTO9" completed keep alive response.
+2016-08-12 16:59:56.5789 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 16:59:56.5969 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 16:59:56.6500 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 16:59:56.7299 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:00:35.4334 WARN User  validation failed: InvalidUserName.
+2016-08-12 17:02:33.9802 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:02:34.1433 DEBUG Hosting starting
+2016-08-12 17:02:34.2711 DEBUG Hosting started
+2016-08-12 17:02:34.3181 DEBUG Connection id "0HKU2N57JE6CU" started.
+2016-08-12 17:02:34.3181 DEBUG Connection id "0HKU2N57JE6CT" started.
+2016-08-12 17:02:34.4131 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:02:34.4131 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:02:34.7175 DEBUG Request did not match any routes.
+2016-08-12 17:02:34.7175 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:02:34.7445 INFO Request finished in 352.4643ms 404 
+2016-08-12 17:02:34.7865 DEBUG Connection id "0HKU2N57JE6CT" completed keep alive response.
+2016-08-12 17:02:34.7865 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:02:34.8926 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:02:45.9673 DEBUG Connection id "0HKU2N57JE6CU" received FIN.
+2016-08-12 17:02:45.9673 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:02:45.9834 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:02:45.9834 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:02:46.0015 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:03:27.9925 DEBUG Connection id "0HKU2N57JE6CT" received FIN.
+2016-08-12 17:03:27.9925 DEBUG Connection id "0HKU2N57JE6CV" started.
+2016-08-12 17:03:28.0377 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:03:28.0377 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:03:28.0457 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:03:28.0457 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:03:33.8649 WARN Role  validation failed: DuplicateRoleName.
+2016-08-12 17:03:35.1365 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:03:35.1435 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:03:35.1545 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:03:35.1695 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:03:35.1695 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:03:35.1695 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:03:35.1695 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:03:35.1865 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:03:35.1865 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:03:35.1865 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:03:35.2055 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:03:35.2055 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:03:35.2385 INFO Connection id "0HKU2N57JE6CT" communication error
+2016-08-12 17:03:35.2385 INFO Connection id "0HKU2N57JE6CU" communication error
+2016-08-12 17:03:35.2385 DEBUG Connection id "0HKU2N57JE6CT" disconnecting.
+2016-08-12 17:03:35.2385 DEBUG Connection id "0HKU2N57JE6CU" disconnecting.
+2016-08-12 17:03:35.2476 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 60446.4044ms
+2016-08-12 17:03:35.2476 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 49244.062ms
+2016-08-12 17:03:35.2476 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 7196.5642ms
+2016-08-12 17:03:35.2636 DEBUG Connection id "0HKU2N57JE6CT" stopped.
+2016-08-12 17:03:35.2636 DEBUG Connection id "0HKU2N57JE6CU" stopped.
+2016-08-12 17:03:35.2806 INFO Request finished in 60892.2786ms 400 text/plain; charset=utf-8
+2016-08-12 17:03:35.2806 INFO Request finished in 49316.6331ms 400 text/plain; charset=utf-8
+2016-08-12 17:03:35.2936 INFO Request finished in 7256.4889ms 400 text/plain; charset=utf-8
+2016-08-12 17:03:35.3406 DEBUG Connection id "0HKU2N57JE6CV" completed keep alive response.
+2016-08-12 17:03:51.7088 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:03:51.7258 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:03:51.7358 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:03:51.7489 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:04:15.6235 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:04:15.6235 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:04:15.6475 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:04:15.6575 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:04:15.6575 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 23918.1706ms
+2016-08-12 17:04:15.6765 INFO Request finished in 23967.2317ms 400 text/plain; charset=utf-8
+2016-08-12 17:04:15.6855 DEBUG Connection id "0HKU2N57JE6CV" completed keep alive response.
+2016-08-12 17:04:29.1467 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:04:29.1567 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:04:29.1567 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:04:29.1737 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:06:33.9423 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:06:34.1067 DEBUG Hosting starting
+2016-08-12 17:06:34.1919 DEBUG Hosting started
+2016-08-12 17:06:34.4207 DEBUG Connection id "0HKU2N7F57MTJ" started.
+2016-08-12 17:06:34.4207 DEBUG Connection id "0HKU2N7F57MTI" started.
+2016-08-12 17:06:34.5187 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:06:34.5187 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:06:34.5905 INFO Request finished in 85.7891ms 200 
+2016-08-12 17:06:34.6305 DEBUG Connection id "0HKU2N7F57MTI" completed keep alive response.
+2016-08-12 17:06:34.8136 DEBUG Request did not match any routes.
+2016-08-12 17:06:34.8357 INFO Request finished in 347.0005ms 404 
+2016-08-12 17:06:34.8437 DEBUG Connection id "0HKU2N7F57MTJ" completed keep alive response.
+2016-08-12 17:06:40.2515 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:06:40.2695 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:06:40.3255 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:06:40.4066 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:06:44.9961 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:06:45.0252 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:06:45.0362 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:06:45.0362 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:06:45.0752 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 4742.0776ms
+2016-08-12 17:06:45.0872 INFO Request finished in 4835.9967ms 400 text/plain; charset=utf-8
+2016-08-12 17:06:45.0962 DEBUG Connection id "0HKU2N7F57MTI" completed keep alive response.
+2016-08-12 17:08:24.4184 DEBUG Connection id "0HKU2N7F57MTI" received FIN.
+2016-08-12 17:08:24.4184 DEBUG Connection id "0HKU2N7F57MTJ" received FIN.
+2016-08-12 17:08:24.4497 DEBUG Connection id "0HKU2N7F57MTJ" disconnecting.
+2016-08-12 17:08:24.4497 DEBUG Connection id "0HKU2N7F57MTI" disconnecting.
+2016-08-12 17:08:24.4809 DEBUG Connection id "0HKU2N7F57MTI" sending FIN.
+2016-08-12 17:08:24.4809 DEBUG Connection id "0HKU2N7F57MTJ" sending FIN.
+2016-08-12 17:08:24.4965 DEBUG Connection id "0HKU2N7F57MTI" sent FIN with status "0".
+2016-08-12 17:08:24.4965 DEBUG Connection id "0HKU2N7F57MTJ" sent FIN with status "0".
+2016-08-12 17:08:24.5122 DEBUG Connection id "0HKU2N7F57MTJ" stopped.
+2016-08-12 17:08:24.5122 DEBUG Connection id "0HKU2N7F57MTI" stopped.
+2016-08-12 17:36:10.0773 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:36:10.2406 DEBUG Hosting starting
+2016-08-12 17:36:10.3465 DEBUG Hosting started
+2016-08-12 17:36:10.4728 DEBUG Connection id "0HKU2NO0EVOUN" started.
+2016-08-12 17:36:10.4728 DEBUG Connection id "0HKU2NO0EVOUO" started.
+2016-08-12 17:36:10.5658 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:36:10.5658 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:36:10.6422 INFO Request finished in 77.3626ms 200 
+2016-08-12 17:36:10.6782 DEBUG Connection id "0HKU2NO0EVOUN" completed keep alive response.
+2016-08-12 17:36:10.8654 DEBUG Request did not match any routes.
+2016-08-12 17:36:10.8854 INFO Request finished in 344.9865ms 404 
+2016-08-12 17:36:10.8854 DEBUG Connection id "0HKU2NO0EVOUO" completed keep alive response.
+2016-08-12 17:36:36.4520 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:36:36.6136 DEBUG Hosting starting
+2016-08-12 17:36:36.7007 DEBUG Hosting started
+2016-08-12 17:36:36.9470 DEBUG Connection id "0HKU2NO8BF2AJ" started.
+2016-08-12 17:36:36.9470 DEBUG Connection id "0HKU2NO8BF2AI" started.
+2016-08-12 17:36:37.0383 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:36:37.0383 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:36:37.1085 INFO Request finished in 78.0483ms 200 
+2016-08-12 17:36:37.1465 DEBUG Connection id "0HKU2NO8BF2AI" completed keep alive response.
+2016-08-12 17:36:37.3457 DEBUG Request did not match any routes.
+2016-08-12 17:36:37.3667 INFO Request finished in 352.6684ms 404 
+2016-08-12 17:36:37.3727 DEBUG Connection id "0HKU2NO8BF2AJ" completed keep alive response.
+2016-08-12 17:36:38.7171 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:36:38.7331 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:36:38.7881 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:36:38.8632 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:37:15.8956 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:37:15.9266 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:37:15.9356 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:37:15.9356 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:37:15.9707 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 37175.2964ms
+2016-08-12 17:37:15.9707 INFO Request finished in 37261.9721ms 400 text/plain; charset=utf-8
+2016-08-12 17:37:15.9877 DEBUG Connection id "0HKU2NO8BF2AI" completed keep alive response.
+2016-08-12 17:37:18.1091 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:37:18.1091 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:37:18.1261 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:37:18.1261 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:44:40.5707 DEBUG Connection id "0HKU2NO8BF2AJ" received FIN.
+2016-08-12 17:44:40.5707 DEBUG Connection id "0HKU2NO8BF2AI" received FIN.
+2016-08-12 17:44:45.4327 DEBUG Connection id "0HKU2NO8BF2AI" disconnecting.
+2016-08-12 17:44:45.4482 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:44:45.4482 DEBUG Connection id "0HKU2NO8BF2AI" sending FIN.
+2016-08-12 17:44:45.4482 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:44:45.4639 DEBUG Connection id "0HKU2NO8BF2AI" sent FIN with status "-4077".
+2016-08-12 17:44:45.4639 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:44:45.4795 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:44:45.4795 DEBUG Connection id "0HKU2NO8BF2AI" stopped.
+2016-08-12 17:44:45.4795 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 447385.1671ms
+2016-08-12 17:44:45.4795 INFO Connection id "0HKU2NO8BF2AJ" communication error
+2016-08-12 17:44:45.4795 DEBUG Connection id "0HKU2NO8BF2AJ" disconnecting.
+2016-08-12 17:44:45.4951 INFO Request finished in 447420.7444ms 400 text/plain; charset=utf-8
+2016-08-12 17:44:45.5108 DEBUG Connection id "0HKU2NO8BF2AJ" stopped.
+2016-08-12 17:45:02.5699 DEBUG Connection id "0HKU2NO8BF2AK" started.
+2016-08-12 17:45:02.5699 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:45:02.5859 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:45:02.5859 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:45:02.6019 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:46:03.9833 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:46:04.1468 DEBUG Hosting starting
+2016-08-12 17:46:04.2369 DEBUG Hosting started
+2016-08-12 17:46:04.4378 DEBUG Connection id "0HKU2NTHFFH5I" started.
+2016-08-12 17:46:04.4428 DEBUG Connection id "0HKU2NTHFFH5J" started.
+2016-08-12 17:46:04.5329 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:46:04.5329 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:46:04.6030 INFO Request finished in 78.3104ms 200 
+2016-08-12 17:46:04.6400 DEBUG Connection id "0HKU2NTHFFH5J" completed keep alive response.
+2016-08-12 17:46:04.8301 DEBUG Request did not match any routes.
+2016-08-12 17:46:04.8505 INFO Request finished in 342.751ms 404 
+2016-08-12 17:46:04.8505 DEBUG Connection id "0HKU2NTHFFH5I" completed keep alive response.
+2016-08-12 17:46:13.7943 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:46:13.8103 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:46:13.8624 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:46:13.9420 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:46:43.6814 DEBUG Executed action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult.
+2016-08-12 17:46:43.7139 DEBUG No information found on request to perform content negotiation.
+2016-08-12 17:46:43.7239 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-08-12 17:46:43.7239 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-12 17:46:43.7610 INFO Executed action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) in 29891.6857ms
+2016-08-12 17:46:43.7720 INFO Request finished in 29977.9848ms 400 text/plain; charset=utf-8
+2016-08-12 17:46:43.7720 DEBUG Connection id "0HKU2NTHFFH5J" completed keep alive response.
+2016-08-12 17:46:45.9951 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:46:45.9951 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:46:46.0081 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:46:46.0241 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:54:11.3946 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:54:11.5563 DEBUG Hosting starting
+2016-08-12 17:54:11.6404 DEBUG Hosting started
+2016-08-12 17:54:11.6891 DEBUG Connection id "0HKU2O22M8Q45" started.
+2016-08-12 17:54:11.6891 DEBUG Connection id "0HKU2O22M8Q44" started.
+2016-08-12 17:54:11.7822 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:54:11.7822 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:54:11.8502 INFO Request finished in 77.4566ms 200 
+2016-08-12 17:54:11.8922 DEBUG Connection id "0HKU2O22M8Q45" completed keep alive response.
+2016-08-12 17:54:12.0854 DEBUG Request did not match any routes.
+2016-08-12 17:54:12.1044 INFO Request finished in 348.1043ms 404 
+2016-08-12 17:54:12.1044 DEBUG Connection id "0HKU2O22M8Q44" completed keep alive response.
+2016-08-12 17:54:16.1679 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:54:16.1849 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:54:16.2379 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:54:16.3170 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:55:57.6669 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:55:57.8309 DEBUG Hosting starting
+2016-08-12 17:55:57.9139 DEBUG Hosting started
+2016-08-12 17:55:58.0903 DEBUG Connection id "0HKU2O32CVSQK" started.
+2016-08-12 17:55:58.0903 DEBUG Connection id "0HKU2O32CVSQJ" started.
+2016-08-12 17:55:58.1830 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:55:58.1830 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:55:58.2509 INFO Request finished in 76.2916ms 200 
+2016-08-12 17:55:58.2898 DEBUG Connection id "0HKU2O32CVSQJ" completed keep alive response.
+2016-08-12 17:55:58.4769 DEBUG Request did not match any routes.
+2016-08-12 17:55:58.4958 INFO Request finished in 339.0549ms 404 
+2016-08-12 17:55:58.4958 DEBUG Connection id "0HKU2O32CVSQK" completed keep alive response.
+2016-08-12 17:56:04.5586 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/seed  
+2016-08-12 17:56:04.5755 DEBUG Request successfully matched the route with name '' and template 'api/v{version}/seed'.
+2016-08-12 17:56:04.6274 DEBUG Executing action TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-08-12 17:56:04.7031 INFO Executing action method TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-08-12 17:57:42.4070 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-12 17:57:42.5649 DEBUG Hosting starting
+2016-08-12 17:57:42.6662 DEBUG Connection id "0HKU2O41I9ABM" started.
+2016-08-12 17:57:42.6662 DEBUG Connection id "0HKU2O41I9ABL" started.
+2016-08-12 17:57:42.6892 DEBUG Hosting started
+2016-08-12 17:57:42.7649 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-12 17:57:42.7649 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-12 17:57:42.8407 INFO Request finished in 75.0004ms 200 
+2016-08-12 17:57:42.8776 DEBUG Connection id "0HKU2O41I9ABM" completed keep alive response.
+2016-08-12 17:57:43.0711 DEBUG Request did not match any routes.
+2016-08-12 17:57:43.0900 INFO Request finished in 349.8633ms 404 
+2016-08-12 17:57:43.0940 DEBUG Connection id "0HKU2O41I9ABL" completed keep alive response.

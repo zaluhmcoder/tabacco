@@ -1,0 +1,306 @@
+2016-07-26 13:27:54.0441 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 13:27:54.1034 DEBUG Hosting starting
+2016-07-26 13:27:54.2046 DEBUG Hosting started
+2016-07-26 13:27:54.3411 DEBUG Connection id "0HKTL7U0I1GJS" started.
+2016-07-26 13:27:54.4234 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 13:27:54.6256 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 13:27:54.7036 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 13:27:54.7584 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-07-26 13:27:54.7584 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-07-26 13:27:54.9835 INFO Request finished in 575.6492ms 500 text/html; charset=utf-8
+2016-07-26 13:27:54.9935 DEBUG Connection id "0HKTL7U0I1GJS" completed keep alive response.
+2016-07-26 13:27:55.2313 INFO Request starting HTTP/1.1 GET http://localhost:20584/favicon.ico  
+2016-07-26 13:27:55.2313 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 13:27:55.2408 DEBUG No actions matched the current request
+2016-07-26 13:27:55.2408 DEBUG Request did not match any routes.
+2016-07-26 13:27:55.2408 INFO Request finished in 17.8745ms 404 
+2016-07-26 13:27:55.2539 DEBUG Connection id "0HKTL7U0I1GJS" completed keep alive response.
+2016-07-26 13:45:28.9424 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 13:45:29.0005 DEBUG Hosting starting
+2016-07-26 13:45:29.0679 DEBUG Hosting started
+2016-07-26 13:45:29.2344 DEBUG Connection id "0HKTL87QU979V" started.
+2016-07-26 13:45:29.3164 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 13:45:29.5150 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 13:45:29.5886 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 13:45:29.7017 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 13:45:29.7017 WARN Denemeler
+2016-07-26 13:45:29.7017 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 13:45:29.7429 DEBUG No information found on request to perform content negotiation.
+2016-07-26 13:45:29.7520 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 13:45:29.7520 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 13:45:29.8250 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 231.8429ms
+2016-07-26 13:45:29.8250 INFO Request finished in 539.9352ms 200 text/plain; charset=utf-8
+2016-07-26 13:45:29.8500 DEBUG Connection id "0HKTL87QU979V" completed keep alive response.
+2016-07-26 13:46:55.9534 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 13:46:56.0146 DEBUG Hosting starting
+2016-07-26 13:46:56.0855 DEBUG Hosting started
+2016-07-26 13:46:56.2727 DEBUG Connection id "0HKTL88KSBC14" started.
+2016-07-26 13:46:56.3575 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 13:46:56.5562 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 13:46:56.6331 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 13:46:56.7505 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 13:46:56.7636 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 13:46:56.8045 DEBUG No information found on request to perform content negotiation.
+2016-07-26 13:46:56.8153 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 13:46:56.8226 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 13:46:56.8949 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 254.2563ms
+2016-07-26 13:46:56.9094 INFO Request finished in 570.0887ms 200 text/plain; charset=utf-8
+2016-07-26 13:46:56.9227 DEBUG Connection id "0HKTL88KSBC14" completed keep alive response.
+2016-07-26 14:40:52.5724 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 14:40:52.6364 DEBUG Hosting starting
+2016-07-26 14:40:52.7075 DEBUG Hosting started
+2016-07-26 14:40:52.8753 DEBUG Connection id "0HKTL96PEVUAP" started.
+2016-07-26 14:40:52.9664 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 14:40:53.1695 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 14:40:53.2495 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 14:40:53.3666 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 14:40:53.3666 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 14:40:53.4117 DEBUG No information found on request to perform content negotiation.
+2016-07-26 14:40:53.4117 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 14:40:53.4317 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 14:40:53.5027 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 243.7471ms
+2016-07-26 14:40:53.5177 INFO Request finished in 572.6672ms 200 text/plain; charset=utf-8
+2016-07-26 14:40:53.5317 DEBUG Connection id "0HKTL96PEVUAP" completed keep alive response.
+2016-07-26 14:41:19.1049 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 14:41:19.1675 DEBUG Hosting starting
+2016-07-26 14:41:19.2386 DEBUG Hosting started
+2016-07-26 14:41:19.4253 DEBUG Connection id "0HKTL971C6BDP" started.
+2016-07-26 14:41:19.5103 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 14:41:19.7075 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 14:41:19.7875 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 14:41:19.9046 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 14:41:19.9136 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 14:41:19.9486 DEBUG No information found on request to perform content negotiation.
+2016-07-26 14:41:19.9606 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 14:41:19.9606 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 14:41:20.0377 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 240.0577ms
+2016-07-26 14:41:20.0527 INFO Request finished in 560.6753ms 200 text/plain; charset=utf-8
+2016-07-26 14:41:20.0527 DEBUG Connection id "0HKTL971C6BDP" completed keep alive response.
+2016-07-26 14:41:23.5426 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 14:41:23.5426 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 14:41:23.5606 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 14:41:23.5706 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 14:41:23.5706 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 14:41:23.5866 DEBUG No information found on request to perform content negotiation.
+2016-07-26 14:41:23.5866 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 14:41:23.6045 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 14:41:23.6045 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 43.9505ms
+2016-07-26 14:41:23.6215 INFO Request finished in 79.1193ms 200 text/plain; charset=utf-8
+2016-07-26 14:41:23.6305 DEBUG Connection id "0HKTL971C6BDP" completed keep alive response.
+2016-07-26 14:58:40.7234 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 14:58:40.7944 DEBUG Hosting starting
+2016-07-26 14:58:40.8678 DEBUG Hosting started
+2016-07-26 14:58:41.0691 DEBUG Connection id "0HKTL9GNQ2V6E" started.
+2016-07-26 14:58:41.1603 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 14:58:41.3684 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 14:58:41.4519 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 14:58:41.5758 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 14:58:41.5856 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 14:58:41.6216 DEBUG No information found on request to perform content negotiation.
+2016-07-26 14:58:41.6346 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 14:58:41.6442 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 14:58:41.7180 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 256.0694ms
+2016-07-26 14:58:41.7343 INFO Request finished in 592.8353ms 200 text/plain; charset=utf-8
+2016-07-26 14:58:41.7499 DEBUG Connection id "0HKTL9GNQ2V6E" completed keep alive response.
+2016-07-26 15:00:31.0516 DEBUG Connection id "0HKTL9GNQ2V6E" received FIN.
+2016-07-26 15:00:31.0614 DEBUG Connection id "0HKTL9GNQ2V6E" disconnecting.
+2016-07-26 15:00:31.0614 DEBUG Connection id "0HKTL9GNQ2V6E" sending FIN.
+2016-07-26 15:00:31.0809 DEBUG Connection id "0HKTL9GNQ2V6E" sent FIN with status "0".
+2016-07-26 15:00:31.0809 DEBUG Connection id "0HKTL9GNQ2V6E" stopped.
+2016-07-26 16:08:11.2049 DEBUG Connection id "0HKTL9GNQ2V6F" started.
+2016-07-26 16:08:11.2144 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 16:08:11.2144 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 16:08:11.2309 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 16:08:11.2309 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 16:08:11.2460 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 16:08:11.2460 DEBUG No information found on request to perform content negotiation.
+2016-07-26 16:08:11.2613 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 16:08:11.2613 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 16:08:11.2764 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 38.4136ms
+2016-07-26 16:08:11.2764 INFO Request finished in 69.9582ms 200 text/plain; charset=utf-8
+2016-07-26 16:08:11.2924 DEBUG Connection id "0HKTL9GNQ2V6F" completed keep alive response.
+2016-07-26 17:25:56.2256 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 17:25:56.3136 DEBUG Hosting starting
+2016-07-26 17:25:56.4022 DEBUG Hosting started
+2016-07-26 17:25:56.5950 DEBUG Connection id "0HKTLC3107B3E" started.
+2016-07-26 17:25:56.5950 DEBUG Connection id "0HKTLC3107B3D" started.
+2016-07-26 17:25:56.6913 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 17:25:56.6913 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-07-26 17:25:56.7676 INFO Request finished in 81.8861ms 200 
+2016-07-26 17:25:56.8126 DEBUG Connection id "0HKTLC3107B3E" completed keep alive response.
+2016-07-26 17:25:56.9554 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:25:57.0344 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 17:25:57.1662 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:25:57.1742 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:25:57.2063 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:25:57.2183 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:25:57.2183 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:25:57.2713 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 228.6193ms
+2016-07-26 17:25:57.2833 INFO Request finished in 618.9101ms 200 text/plain; charset=utf-8
+2016-07-26 17:25:57.2833 DEBUG Connection id "0HKTLC3107B3D" completed keep alive response.
+2016-07-26 17:30:39.7814 WARN User  password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresLower;PasswordRequiresUpper.
+2016-07-26 17:30:40.0243 DEBUG Hosting starting
+2016-07-26 17:30:40.1134 DEBUG Hosting started
+2016-07-26 17:30:40.1817 DEBUG Connection id "0HKTLC5LGN4CH" started.
+2016-07-26 17:30:40.1817 DEBUG Connection id "0HKTLC5LGN4CI" started.
+2016-07-26 17:30:40.2808 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 17:30:40.2808 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-07-26 17:30:40.3445 INFO Request finished in 72.9303ms 200 
+2016-07-26 17:30:40.3835 DEBUG Connection id "0HKTLC5LGN4CI" completed keep alive response.
+2016-07-26 17:30:40.5126 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:30:40.5917 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 17:30:40.6617 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:30:40.6697 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:30:40.7034 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:30:40.7154 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:30:40.7154 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:30:40.7714 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 171.2609ms
+2016-07-26 17:30:40.7824 INFO Request finished in 528.346ms 200 text/plain; charset=utf-8
+2016-07-26 17:30:40.7824 DEBUG Connection id "0HKTLC5LGN4CH" completed keep alive response.
+2016-07-26 17:31:18.6006 WARN User  password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresLower;PasswordRequiresUpper.
+2016-07-26 17:39:25.6464 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 17:39:25.7354 DEBUG Hosting starting
+2016-07-26 17:39:25.8365 DEBUG Hosting started
+2016-07-26 17:39:25.9986 DEBUG Connection id "0HKTLCAI7A15N" started.
+2016-07-26 17:39:25.9986 DEBUG Connection id "0HKTLCAI7A15M" started.
+2016-07-26 17:39:26.1087 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 17:39:26.1087 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-07-26 17:39:26.2008 INFO Request finished in 97.6653ms 200 
+2016-07-26 17:39:26.2478 DEBUG Connection id "0HKTLCAI7A15M" completed keep alive response.
+2016-07-26 17:39:26.4209 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:39:26.5210 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 17:39:26.6741 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:39:26.6821 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:39:26.7131 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:39:26.7131 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:39:26.7321 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:39:26.7801 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 248.9603ms
+2016-07-26 17:39:26.7931 INFO Request finished in 716.159ms 200 text/plain; charset=utf-8
+2016-07-26 17:39:26.8051 DEBUG Connection id "0HKTLCAI7A15N" completed keep alive response.
+2016-07-26 17:39:29.5682 INFO Request starting HTTP/1.1 GET http://localhost:20584/seed  
+2016-07-26 17:39:29.5772 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:39:29.5772 DEBUG No actions matched the current request
+2016-07-26 17:39:29.5928 DEBUG Request did not match any routes.
+2016-07-26 17:39:29.5928 INFO Request finished in 31.8264ms 404 
+2016-07-26 17:39:29.6078 DEBUG Connection id "0HKTLCAI7A15M" completed keep alive response.
+2016-07-26 17:40:47.6562 DEBUG Connection id "0HKTLCAI7A15O" started.
+2016-07-26 17:40:47.6562 DEBUG Connection id "0HKTLCAI7A15M" received FIN.
+2016-07-26 17:40:47.6562 DEBUG Connection id "0HKTLCAI7A15N" received FIN.
+2016-07-26 17:40:47.6672 INFO Request starting HTTP/1.1 GET http://localhost:20584/ping  
+2016-07-26 17:40:47.6960 DEBUG Connection id "0HKTLCAI7A15M" disconnecting.
+2016-07-26 17:40:47.6960 DEBUG Connection id "0HKTLCAI7A15N" disconnecting.
+2016-07-26 17:40:47.6960 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:40:47.7200 DEBUG Connection id "0HKTLCAI7A15M" sending FIN.
+2016-07-26 17:40:47.7200 DEBUG Connection id "0HKTLCAI7A15N" sending FIN.
+2016-07-26 17:40:47.7340 DEBUG No actions matched the current request
+2016-07-26 17:40:47.7430 DEBUG Connection id "0HKTLCAI7A15M" sent FIN with status "0".
+2016-07-26 17:40:47.7430 DEBUG Connection id "0HKTLCAI7A15N" sent FIN with status "0".
+2016-07-26 17:40:47.7430 DEBUG Request did not match any routes.
+2016-07-26 17:40:47.7600 DEBUG Connection id "0HKTLCAI7A15M" stopped.
+2016-07-26 17:40:47.7600 DEBUG Connection id "0HKTLCAI7A15N" stopped.
+2016-07-26 17:40:47.7600 INFO Request finished in 102.4032ms 404 
+2016-07-26 17:40:47.7840 DEBUG Connection id "0HKTLCAI7A15O" completed keep alive response.
+2016-07-26 17:40:50.6317 INFO Request starting HTTP/1.1 GET http://localhost:20584/error  
+2016-07-26 17:40:50.6397 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:40:50.6397 DEBUG No actions matched the current request
+2016-07-26 17:40:50.6507 DEBUG Request did not match any routes.
+2016-07-26 17:40:50.6507 INFO Request finished in 23.1634ms 404 
+2016-07-26 17:40:50.6507 DEBUG Connection id "0HKTLCAI7A15O" completed keep alive response.
+2016-07-26 17:40:52.9893 INFO Request starting HTTP/1.1 GET http://localhost:20584/error  
+2016-07-26 17:40:52.9953 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:40:52.9953 DEBUG No actions matched the current request
+2016-07-26 17:40:53.0113 DEBUG Request did not match any routes.
+2016-07-26 17:40:53.0113 INFO Request finished in 27.2468ms 404 
+2016-07-26 17:40:53.0113 DEBUG Connection id "0HKTLCAI7A15O" completed keep alive response.
+2016-07-26 17:41:06.8313 INFO Request starting HTTP/1.1 GET http://localhost:20584/default/error  
+2016-07-26 17:41:06.8374 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:41:06.8374 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api)
+2016-07-26 17:41:06.8554 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:41:06.8554 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:41:06.8694 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:41:06.8694 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:41:06.8694 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:41:06.8824 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api) in 33.5203ms
+2016-07-26 17:41:06.8824 INFO Request finished in 56.7106ms 200 text/plain; charset=utf-8
+2016-07-26 17:41:06.8824 DEBUG Connection id "0HKTLCAI7A15O" completed keep alive response.
+2016-07-26 17:41:09.6474 INFO Request starting HTTP/1.1 GET http://localhost:20584/default/seed  
+2016-07-26 17:41:09.6474 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:41:09.6474 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api)
+2016-07-26 17:41:09.6654 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:41:10.7892 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:41:10.7892 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:41:10.7892 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:41:10.8093 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:41:10.8093 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api) in 1149.4778ms
+2016-07-26 17:41:10.8303 INFO Request finished in 1182.3377ms 200 text/plain; charset=utf-8
+2016-07-26 17:41:10.8373 DEBUG Connection id "0HKTLCAI7A15O" completed keep alive response.
+2016-07-26 17:42:32.1370 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 17:42:32.2212 DEBUG Hosting starting
+2016-07-26 17:42:32.3343 DEBUG Hosting started
+2016-07-26 17:42:32.4369 DEBUG Connection id "0HKTLCC9PA5HC" started.
+2016-07-26 17:42:32.4369 DEBUG Connection id "0HKTLCC9PA5HB" started.
+2016-07-26 17:42:32.5350 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 17:42:32.5350 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-07-26 17:42:32.6087 INFO Request finished in 83.46ms 200 
+2016-07-26 17:42:32.6498 DEBUG Connection id "0HKTLCC9PA5HB" completed keep alive response.
+2016-07-26 17:42:32.7939 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:42:32.8709 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 17:42:33.0170 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:42:33.0250 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:42:33.0580 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:42:33.0711 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:42:33.0711 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:42:33.1281 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 246.7461ms
+2016-07-26 17:42:33.1411 INFO Request finished in 632.6591ms 200 text/plain; charset=utf-8
+2016-07-26 17:42:33.1501 DEBUG Connection id "0HKTLCC9PA5HC" completed keep alive response.
+2016-07-26 17:42:57.2221 INFO Request starting HTTP/1.1 GET http://localhost:20584/default/seed  
+2016-07-26 17:42:57.2311 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:42:57.2421 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api)
+2016-07-26 17:42:57.2594 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:43:14.5194 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:43:14.5284 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:43:14.5394 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:43:14.5394 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:43:14.5554 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api) in 17305.8537ms
+2016-07-26 17:43:14.5704 INFO Request finished in 17348.4431ms 200 text/plain; charset=utf-8
+2016-07-26 17:43:14.5704 DEBUG Connection id "0HKTLCC9PA5HB" completed keep alive response.
+2016-07-26 17:44:22.4173 DEBUG Connection id "0HKTLCC9PA5HB" received FIN.
+2016-07-26 17:44:22.4173 DEBUG Connection id "0HKTLCC9PA5HC" received FIN.
+2016-07-26 17:44:22.4433 DEBUG Connection id "0HKTLCC9PA5HC" disconnecting.
+2016-07-26 17:44:22.4363 DEBUG Connection id "0HKTLCC9PA5HB" disconnecting.
+2016-07-26 17:44:22.4433 DEBUG Connection id "0HKTLCC9PA5HC" sending FIN.
+2016-07-26 17:44:22.4653 DEBUG Connection id "0HKTLCC9PA5HB" sending FIN.
+2016-07-26 17:44:22.4813 DEBUG Connection id "0HKTLCC9PA5HC" sent FIN with status "0".
+2016-07-26 17:44:22.4813 DEBUG Connection id "0HKTLCC9PA5HB" sent FIN with status "0".
+2016-07-26 17:44:22.4993 DEBUG Connection id "0HKTLCC9PA5HB" stopped.
+2016-07-26 17:44:22.4993 DEBUG Connection id "0HKTLCC9PA5HC" stopped.
+2016-07-26 17:47:37.7739 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-07-26 17:47:37.8579 DEBUG Hosting starting
+2016-07-26 17:47:37.9660 DEBUG Hosting started
+2016-07-26 17:47:38.0302 DEBUG Connection id "0HKTLCF4RLRJ6" started.
+2016-07-26 17:47:38.0302 DEBUG Connection id "0HKTLCF4RLRJ7" started.
+2016-07-26 17:47:38.1277 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-07-26 17:47:38.1277 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-26 17:47:38.2000 INFO Request finished in 82.2955ms 200 
+2016-07-26 17:47:38.2403 DEBUG Connection id "0HKTLCF4RLRJ7" completed keep alive response.
+2016-07-26 17:47:38.3877 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:47:38.4677 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+2016-07-26 17:47:38.6128 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:47:38.6209 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:47:38.6519 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:47:38.6629 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:47:38.6629 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:47:38.7166 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api) in 240.6747ms
+2016-07-26 17:47:38.7286 INFO Request finished in 627.8632ms 200 text/plain; charset=utf-8
+2016-07-26 17:47:38.7286 DEBUG Connection id "0HKTLCF4RLRJ6" completed keep alive response.
+2016-07-26 17:47:47.4148 INFO Request starting HTTP/1.1 GET http://localhost:20584/default/seed  
+2016-07-26 17:47:47.4148 DEBUG Request successfully matched the route with name 'default' and template '{controller=Default}/{action=Index}/{id?}'.
+2016-07-26 17:47:47.4298 DEBUG Executing action TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api)
+2016-07-26 17:47:47.4418 INFO Executing action method TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api) with arguments () - ModelState is Valid
+2016-07-26 17:47:48.6659 DEBUG Executed action method TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-07-26 17:47:48.6659 DEBUG No information found on request to perform content negotiation.
+2016-07-26 17:47:48.6840 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain; charset=utf-8' to write the response.
+2016-07-26 17:47:48.6840 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-07-26 17:47:48.6980 INFO Executed action TeamTrack.Api.Controllers.DefaultController.Seed (TeamTrack.Api) in 1260.5878ms
+2016-07-26 17:47:48.6980 INFO Request finished in 1292.021ms 200 text/plain; charset=utf-8
+2016-07-26 17:47:48.7140 DEBUG Connection id "0HKTLCF4RLRJ7" completed keep alive response.

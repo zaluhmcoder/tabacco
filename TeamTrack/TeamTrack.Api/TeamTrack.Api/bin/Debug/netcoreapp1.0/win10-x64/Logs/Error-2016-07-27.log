@@ -1,0 +1,8 @@
+2016-07-27 14:46:44.3855 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 page, Int32 pageSize, Boolean includePassive, Boolean includeRoles, Boolean includeClaims, String userName) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 64
+2016-07-27 15:25:37.9679 ERROR Request matched multiple actions resulting in ambiguity. Matching actions: TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api)
+TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-07-27 15:25:37.9958 ERROR An unhandled exception has occurred while executing the request
+2016-07-27 15:26:15.8643 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 page, Int32 pageSize, Boolean includePassive, Boolean includeRoles, Boolean includeClaims, String userName) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 65

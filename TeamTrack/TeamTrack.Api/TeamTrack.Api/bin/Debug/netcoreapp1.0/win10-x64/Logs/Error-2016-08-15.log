@@ -1,0 +1,14 @@
+2016-08-15 09:44:07.2860 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 09:52:09.4239 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 09:52:11.3280 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 09:52:20.6423 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 09:52:47.2219 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 09:53:02.8750 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 13:51:52.5389 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 13:53:18.0700 ERROR An unhandled exception has occurred while executing the request
+2016-08-15 14:28:52.4087 ERROR Path: /api/token Exception: System.Exception: deenem
+   at TeamTrack.Api.Infrastructure.TokenProvider.<GenerateToken>d__7.MoveNext() in C:\Projects\TeamTrack\TeamTrack.Api\Infrastructure\TokenProvider.cs:line 84
+2016-08-15 14:29:45.4354 ERROR /api/token Path: System.Exception: deenem
+   at TeamTrack.Api.Infrastructure.TokenProvider.<GenerateToken>d__7.MoveNext() in C:\Projects\TeamTrack\TeamTrack.Api\Infrastructure\TokenProvider.cs:line 84
+2016-08-15 14:30:31.6707 ERROR System.Exception: deenem
+   at TeamTrack.Api.Infrastructure.TokenProvider.<GenerateToken>d__7.MoveNext() in C:\Projects\TeamTrack\TeamTrack.Api\Infrastructure\TokenProvider.cs:line 84 Path: /api/token

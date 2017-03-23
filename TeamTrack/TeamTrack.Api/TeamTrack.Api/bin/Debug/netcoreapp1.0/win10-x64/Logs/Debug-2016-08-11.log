@@ -1,0 +1,205 @@
+2016-08-11 11:09:03.6372 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-11 11:09:03.7537 DEBUG Hosting starting
+2016-08-11 11:09:03.9095 DEBUG Hosting started
+2016-08-11 11:09:03.9565 DEBUG Connection id "0HKU1NR171N5P" started.
+2016-08-11 11:09:03.9565 DEBUG Connection id "0HKU1NR171N5O" started.
+2016-08-11 11:09:04.0584 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-11 11:09:04.0584 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-11 11:09:04.1263 INFO Request finished in 76.1479ms 200 
+2016-08-11 11:09:04.1653 DEBUG Connection id "0HKU1NR171N5P" completed keep alive response.
+2016-08-11 11:09:04.3678 DEBUG Request did not match any routes.
+2016-08-11 11:09:04.3858 INFO Request finished in 355.519ms 404 
+2016-08-11 11:09:04.3858 DEBUG Connection id "0HKU1NR171N5O" completed keep alive response.
+2016-08-11 11:09:04.5479 INFO Request starting HTTP/1.1 GET http://localhost:20584/favicon.ico  
+2016-08-11 11:09:04.5519 DEBUG Request did not match any routes.
+2016-08-11 11:09:04.5519 INFO Request finished in 6.8126ms 404 
+2016-08-11 11:09:04.5519 DEBUG Connection id "0HKU1NR171N5P" completed keep alive response.
+2016-08-11 11:09:16.0032 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 11:09:16.1614 INFO Failed to validate the token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJURVNUIiwianRpIjoiZjQ0NjQ2ZGItNDRkOC00ZGUyLThlZjUtOTg2Yjk4OTA5ZTMxIiwiaWF0IjoxNDcwNzQ2OTk5LCJuYmYiOjE0NzA3NDY5OTgsImV4cCI6MTQ3MDc0NzI5OCwiaXNzIjoidW5kZWZpbmVkIiwiYXVkIjoidW5kZWZpbmVkIn0.e71m8_mMJYqRk74_do2y0g8sQ-JKGu4qsSV0k8Q7td0.
+2016-08-11 11:09:16.1614 INFO Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired.
+ValidTo: '08/09/2016 12:54:58'
+Current time: '08/11/2016 08:09:16'.
+2016-08-11 11:09:16.1795 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 11:09:16.2315 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 11:09:16.2715 INFO Authorization failed for user: .
+2016-08-11 11:09:16.2715 WARN Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2016-08-11 11:09:16.2715 INFO Executing ChallengeResult with authentication schemes (Bearer).
+2016-08-11 11:09:16.2956 INFO AuthenticationScheme: Bearer was challenged.
+2016-08-11 11:09:16.3005 INFO Request finished in 297.7496ms 401 
+2016-08-11 11:09:16.3005 DEBUG Connection id "0HKU1NR171N5O" completed keep alive response.
+2016-08-11 11:09:38.1420 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/token  
+2016-08-11 11:09:38.1520 INFO Request finished in 10.0607ms 400 
+2016-08-11 11:09:38.1590 DEBUG Connection id "0HKU1NR171N5P" completed keep alive response.
+2016-08-11 11:10:38.5448 DEBUG Connection id "0HKU1NR171N5Q" started.
+2016-08-11 11:10:38.5448 DEBUG Connection id "0HKU1NR171N5P" received FIN.
+2016-08-11 11:10:38.5528 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 11:10:38.5448 DEBUG Connection id "0HKU1NR171N5O" received FIN.
+2016-08-11 11:10:38.6082 DEBUG Connection id "0HKU1NR171N5O" disconnecting.
+2016-08-11 11:10:38.5796 DEBUG Connection id "0HKU1NR171N5P" disconnecting.
+2016-08-11 11:10:38.6082 INFO Handling request: /api/token
+2016-08-11 11:10:38.6153 DEBUG Connection id "0HKU1NR171N5O" sending FIN.
+2016-08-11 11:10:38.6153 DEBUG Connection id "0HKU1NR171N5P" sending FIN.
+2016-08-11 11:10:38.6343 DEBUG Connection id "0HKU1NR171N5O" sent FIN with status "0".
+2016-08-11 11:10:38.6343 DEBUG Connection id "0HKU1NR171N5P" sent FIN with status "0".
+2016-08-11 11:10:38.6343 DEBUG Connection id "0HKU1NR171N5O" stopped.
+2016-08-11 11:10:38.6343 DEBUG Connection id "0HKU1NR171N5P" stopped.
+2016-08-11 11:10:38.7334 INFO Request finished in 181.3626ms 200 application/json
+2016-08-11 11:10:38.7334 DEBUG Connection id "0HKU1NR171N5Q" completed keep alive response.
+2016-08-11 11:10:50.7310 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 11:10:50.7460 INFO Successfully validated the token.
+2016-08-11 11:10:50.7540 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-11 11:10:50.7540 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 11:10:50.7540 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 11:10:50.7540 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-11 11:10:50.7540 INFO Authorization was successful for user: TEST.
+2016-08-11 11:10:50.9409 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-11 11:21:35.5806 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-11 11:21:35.6719 DEBUG Hosting starting
+2016-08-11 11:21:35.7540 DEBUG Hosting started
+2016-08-11 11:21:35.9752 DEBUG Connection id "0HKU1O21ARJTP" started.
+2016-08-11 11:21:35.9752 DEBUG Connection id "0HKU1O21ARJTO" started.
+2016-08-11 11:21:36.0723 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-11 11:21:36.0723 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-11 11:21:36.1383 INFO Request finished in 72.0389ms 200 
+2016-08-11 11:21:36.1933 DEBUG Connection id "0HKU1O21ARJTO" completed keep alive response.
+2016-08-11 11:21:36.3837 DEBUG Request did not match any routes.
+2016-08-11 11:21:36.4024 INFO Request finished in 355.0425ms 404 
+2016-08-11 11:21:36.4024 DEBUG Connection id "0HKU1O21ARJTP" completed keep alive response.
+2016-08-11 11:21:42.6564 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 11:21:42.6614 INFO Handling request: /api/token
+2016-08-11 11:21:42.8932 INFO Request finished in 236.8577ms 200 application/json
+2016-08-11 11:21:42.8992 DEBUG Connection id "0HKU1O21ARJTO" completed keep alive response.
+2016-08-11 11:21:52.2455 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 11:21:52.2945 INFO Successfully validated the token.
+2016-08-11 11:21:52.3102 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-11 11:21:52.3258 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 11:21:52.3727 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 11:21:52.4039 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-11 11:21:52.4205 INFO Authorization was successful for user: TEST.
+2016-08-11 11:21:52.5941 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-11 11:23:45.6510 DEBUG Connection id "0HKU1O21ARJTO" received FIN.
+2016-08-11 11:23:45.6680 DEBUG Connection id "0HKU1O21ARJTO" disconnecting.
+2016-08-11 11:23:45.6830 DEBUG Connection id "0HKU1O21ARJTO" sending FIN.
+2016-08-11 11:23:45.6830 DEBUG Connection id "0HKU1O21ARJTO" sent FIN with status "0".
+2016-08-11 11:23:45.6994 DEBUG Connection id "0HKU1O21ARJTO" stopped.
+2016-08-11 11:23:47.3244 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-11 11:23:47.3557 DEBUG No information found on request to perform content negotiation.
+2016-08-11 11:23:47.3557 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-11 11:23:47.3557 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-11 11:23:47.4579 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 115070.3794ms
+2016-08-11 11:23:47.4669 INFO Request finished in 115218.6331ms 200 application/json; charset=utf-8
+2016-08-11 11:23:47.4669 DEBUG Connection id "0HKU1O21ARJTP" completed keep alive response.
+2016-08-11 11:24:41.8757 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 11:24:41.8837 INFO Handling request: /api/token
+2016-08-11 11:25:06.9987 INFO Request finished in 25122.5791ms 200 application/json
+2016-08-11 11:25:06.9987 DEBUG Connection id "0HKU1O21ARJTP" completed keep alive response.
+2016-08-11 11:25:12.4656 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 11:25:12.4656 INFO Successfully validated the token.
+2016-08-11 11:25:12.4786 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-11 11:25:12.4786 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 11:25:12.4786 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 11:25:12.4966 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-11 11:25:12.4966 INFO Authorization was successful for user: TEST.
+2016-08-11 11:25:12.5219 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-11 11:37:56.9124 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-11 11:37:57.0054 DEBUG Hosting starting
+2016-08-11 11:37:57.0924 DEBUG Hosting started
+2016-08-11 11:37:57.3500 DEBUG Connection id "0HKU1OB5PUR0C" started.
+2016-08-11 11:37:57.3500 DEBUG Connection id "0HKU1OB5PUR0D" started.
+2016-08-11 11:37:57.4480 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-11 11:37:57.4480 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-11 11:37:57.5148 INFO Request finished in 77.7747ms 200 
+2016-08-11 11:37:57.5578 DEBUG Connection id "0HKU1OB5PUR0C" completed keep alive response.
+2016-08-11 11:37:57.7479 DEBUG Request did not match any routes.
+2016-08-11 11:37:57.7679 INFO Request finished in 347.1312ms 404 
+2016-08-11 11:37:57.7679 DEBUG Connection id "0HKU1OB5PUR0D" completed keep alive response.
+2016-08-11 11:37:58.3378 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 11:37:58.3458 INFO Handling request: /api/token
+2016-08-11 11:37:59.9351 INFO Request finished in 1599.0351ms 200 application/json
+2016-08-11 11:37:59.9351 DEBUG Connection id "0HKU1OB5PUR0C" completed keep alive response.
+2016-08-11 11:39:47.3064 DEBUG Connection id "0HKU1OB5PUR0D" received FIN.
+2016-08-11 11:39:47.3064 DEBUG Connection id "0HKU1OB5PUR0C" received FIN.
+2016-08-11 11:39:47.3064 DEBUG Connection id "0HKU1OB5PUR0C" disconnecting.
+2016-08-11 11:39:47.3064 DEBUG Connection id "0HKU1OB5PUR0D" disconnecting.
+2016-08-11 11:39:47.3264 DEBUG Connection id "0HKU1OB5PUR0D" sending FIN.
+2016-08-11 11:39:47.3264 DEBUG Connection id "0HKU1OB5PUR0C" sending FIN.
+2016-08-11 11:39:47.3384 DEBUG Connection id "0HKU1OB5PUR0C" sent FIN with status "0".
+2016-08-11 11:39:47.3384 DEBUG Connection id "0HKU1OB5PUR0D" sent FIN with status "0".
+2016-08-11 11:39:47.3384 DEBUG Connection id "0HKU1OB5PUR0D" stopped.
+2016-08-11 11:39:47.3384 DEBUG Connection id "0HKU1OB5PUR0C" stopped.
+2016-08-11 15:29:42.0409 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-11 15:29:42.1339 DEBUG Hosting starting
+2016-08-11 15:29:42.2179 DEBUG Hosting started
+2016-08-11 15:29:42.2709 DEBUG Connection id "0HKU1SCLPKHAH" started.
+2016-08-11 15:29:42.2709 DEBUG Connection id "0HKU1SCLPKHAG" started.
+2016-08-11 15:29:42.3619 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-11 15:29:42.3619 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-11 15:29:42.4355 INFO Request finished in 80.692ms 200 
+2016-08-11 15:29:42.4755 DEBUG Connection id "0HKU1SCLPKHAG" completed keep alive response.
+2016-08-11 15:29:42.6687 DEBUG Request did not match any routes.
+2016-08-11 15:29:42.6867 INFO Request finished in 350.1404ms 404 
+2016-08-11 15:29:42.6907 DEBUG Connection id "0HKU1SCLPKHAH" completed keep alive response.
+2016-08-11 15:29:42.7067 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 15:29:42.7067 INFO Handling request: /api/token
+2016-08-11 15:30:05.3840 INFO Request finished in 22683.9407ms 200 application/json
+2016-08-11 15:30:05.3840 DEBUG Connection id "0HKU1SCLPKHAG" completed keep alive response.
+2016-08-11 15:30:16.8752 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 15:30:16.9422 INFO Successfully validated the token.
+2016-08-11 15:30:16.9422 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-11 15:30:16.9682 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 15:30:17.0143 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 15:30:17.0383 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-11 15:30:17.0383 INFO Authorization was successful for user: .
+2016-08-11 15:30:17.2333 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-11 17:16:05.0477 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-11 17:16:05.1517 DEBUG Hosting starting
+2016-08-11 17:16:05.2758 DEBUG Hosting started
+2016-08-11 17:16:05.3519 DEBUG Connection id "0HKU1U843EIIC" started.
+2016-08-11 17:16:05.3519 DEBUG Connection id "0HKU1U843EIIB" started.
+2016-08-11 17:16:05.4540 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-11 17:16:05.4540 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-11 17:16:05.5175 INFO Request finished in 74.9408ms 200 
+2016-08-11 17:16:05.5575 DEBUG Connection id "0HKU1U843EIIB" completed keep alive response.
+2016-08-11 17:16:05.7969 DEBUG Request did not match any routes.
+2016-08-11 17:16:05.8189 INFO Request finished in 392.2893ms 404 
+2016-08-11 17:16:05.8189 DEBUG Connection id "0HKU1U843EIIC" completed keep alive response.
+2016-08-11 17:16:11.7092 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 17:16:11.7092 INFO Handling request: /api/token
+2016-08-11 17:16:13.5715 INFO Request finished in 1862.3991ms 200 application/json
+2016-08-11 17:16:13.5715 DEBUG Connection id "0HKU1U843EIIB" completed keep alive response.
+2016-08-11 17:16:26.4748 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 17:16:26.5419 INFO Successfully validated the token.
+2016-08-11 17:16:26.5539 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-11 17:16:26.5679 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 17:16:26.6139 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 17:16:26.6409 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-11 17:16:26.6580 INFO Authorization was successful for user: .
+2016-08-11 17:16:26.8393 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-11 17:17:23.4789 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-11 17:17:23.5767 DEBUG Hosting starting
+2016-08-11 17:17:23.6616 DEBUG Hosting started
+2016-08-11 17:17:23.7440 DEBUG Connection id "0HKU1U8RF1U4L" started.
+2016-08-11 17:17:23.7440 DEBUG Connection id "0HKU1U8RF1U4K" started.
+2016-08-11 17:17:23.8374 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-11 17:17:23.8374 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-11 17:17:23.9107 INFO Request finished in 75.4382ms 200 
+2016-08-11 17:17:23.9468 DEBUG Connection id "0HKU1U8RF1U4L" completed keep alive response.
+2016-08-11 17:17:24.1399 DEBUG Request did not match any routes.
+2016-08-11 17:17:24.1589 INFO Request finished in 347.7454ms 404 
+2016-08-11 17:17:24.1589 DEBUG Connection id "0HKU1U8RF1U4K" completed keep alive response.
+2016-08-11 17:17:31.1140 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-11 17:17:31.1140 INFO Handling request: /api/token
+2016-08-11 17:17:34.1170 INFO Request finished in 3003.2741ms 200 application/json
+2016-08-11 17:17:34.1170 DEBUG Connection id "0HKU1U8RF1U4L" completed keep alive response.
+2016-08-11 17:17:46.8512 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-11 17:17:46.9193 INFO Successfully validated the token.
+2016-08-11 17:17:46.9343 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-11 17:17:46.9493 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-11 17:17:46.9964 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-11 17:17:47.0234 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-11 17:17:47.0414 INFO Authorization failed for user: .
+2016-08-11 17:17:47.0414 WARN Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2016-08-11 17:17:47.0534 INFO Executing ChallengeResult with authentication schemes (Bearer).
+2016-08-11 17:17:47.0644 INFO AuthenticationScheme: Bearer was forbidden.
+2016-08-11 17:17:47.0644 INFO Request finished in 218.4688ms 403 
+2016-08-11 17:17:47.0644 DEBUG Connection id "0HKU1U8RF1U4K" completed keep alive response.

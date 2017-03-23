@@ -1,0 +1,9 @@
+2016-07-25 16:37:07.6800 DEBUG Hosting starting
+2016-07-25 16:37:07.7531 DEBUG Hosting started
+2016-07-25 16:37:07.7725 DEBUG Connection id "0HKTKI32U5CMB" started.
+2016-07-25 16:37:07.8547 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-07-25 16:37:07.8985 INFO Request finished in 57.5404ms 500 text/html; charset=utf-8
+2016-07-25 16:37:07.8985 DEBUG Connection id "0HKTKI32U5CMB" completed keep alive response.
+2016-07-25 16:37:08.1560 INFO Request starting HTTP/1.1 GET http://localhost:20584/favicon.ico  
+2016-07-25 16:37:08.1560 INFO Request finished in 3.2421ms 500 text/html; charset=utf-8
+2016-07-25 16:37:08.1560 DEBUG Connection id "0HKTKI32U5CMB" completed keep alive response.

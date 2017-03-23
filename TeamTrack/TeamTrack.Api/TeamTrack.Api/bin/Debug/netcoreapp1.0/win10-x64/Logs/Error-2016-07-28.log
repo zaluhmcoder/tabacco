@@ -1,0 +1,61 @@
+2016-07-28 11:22:34.6424 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 11:22:34.6625 ERROR Connection id "0HKTMO07OBUSH": An unhandled exception was thrown by the application.
+2016-07-28 11:37:37.1647 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 11:37:37.1778 ERROR Connection id "0HKTMO9KDF69J": An unhandled exception was thrown by the application.
+2016-07-28 13:38:23.1124 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at TeamTrack.Api.Models.ModelFactory.Create(User user) in C:\Projects\TeamTrack\TeamTrack.Api\Models\ModelFactory.cs:line 36
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 id, Boolean includePassive) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 105
+2016-07-28 13:44:27.0665 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at TeamTrack.Api.Models.ModelFactory.Create(User user) in C:\Projects\TeamTrack\TeamTrack.Api\Models\ModelFactory.cs:line 36
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 id, Boolean includePassive) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 103
+2016-07-28 13:44:41.9836 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 13:44:41.9836 ERROR Connection id "0HKTMQGGPO06U": An unhandled exception was thrown by the application.
+2016-07-28 13:44:50.1091 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 13:44:50.1231 ERROR Connection id "0HKTMQGGPO06V": An unhandled exception was thrown by the application.
+2016-07-28 14:27:28.5882 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:27:28.6103 ERROR Connection id "0HKTMR8JDRFSV": An unhandled exception was thrown by the application.
+2016-07-28 14:30:45.3344 ERROR Request matched multiple actions resulting in ambiguity. Matching actions: TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api)
+TeamTrack.Api.Controllers.SeedController.Index (TeamTrack.Api)
+2016-07-28 14:30:45.3544 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:38:11.4600 ERROR Request matched multiple actions resulting in ambiguity. Matching actions: TeamTrack.Api.Controllers.DefaultController.Index (TeamTrack.Api)
+TeamTrack.Api.Controllers.DefaultController.Error (TeamTrack.Api)
+2016-07-28 14:38:11.4860 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:44:54.3388 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:45:21.2752 FATAL Application startup exception
+2016-07-28 14:45:38.9749 FATAL Application startup exception
+2016-07-28 14:46:00.7540 ERROR An unhandled exception has occurred: Exception of type 'System.Exception' was thrown.
+2016-07-28 14:46:00.7640 ERROR An exception was thrown attempting to execute the error handler.
+2016-07-28 14:46:00.7810 ERROR Connection id "0HKTMRIVFIEO7": An unhandled exception was thrown by the application.
+2016-07-28 14:46:02.8416 ERROR An unhandled exception has occurred: Exception of type 'System.Exception' was thrown.
+2016-07-28 14:46:02.8587 ERROR An exception was thrown attempting to execute the error handler.
+2016-07-28 14:46:02.8750 ERROR Connection id "0HKTMRIVFIEO7": An unhandled exception was thrown by the application.
+2016-07-28 14:46:24.9038 ERROR An unhandled exception has occurred: Value cannot be null.
+Parameter name: actionContext
+2016-07-28 14:46:24.9188 ERROR An exception was thrown attempting to execute the error handler.
+2016-07-28 14:46:24.9188 ERROR Connection id "0HKTMRIVFIEO7": An unhandled exception was thrown by the application.
+2016-07-28 14:51:51.9118 ERROR An unhandled exception has occurred: Exception of type 'System.Exception' was thrown.
+2016-07-28 14:53:22.0737 ERROR An unhandled exception has occurred: Exception of type 'System.Exception' was thrown.
+2016-07-28 14:53:34.7622 ERROR An unhandled exception has occurred: Exception of type 'System.Exception' was thrown.
+2016-07-28 14:54:13.2469 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:56:46.7349 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:57:43.0958 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:57:46.8177 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:57:47.7683 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 14:58:17.7069 ERROR System.ArgumentNullException: Value cannot be null.
+Parameter name: actionContext
+   at Microsoft.AspNetCore.Mvc.Routing.UrlHelper..ctor(ActionContext actionContext)
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 page, Int32 pageSize, Boolean includePassive, String userName) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 58
+2016-07-28 14:58:20.9690 ERROR System.ArgumentNullException: Value cannot be null.
+Parameter name: actionContext
+   at Microsoft.AspNetCore.Mvc.Routing.UrlHelper..ctor(ActionContext actionContext)
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 page, Int32 pageSize, Boolean includePassive, String userName) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 58
+2016-07-28 15:00:30.0534 ERROR System.ArgumentNullException: Value cannot be null.
+Parameter name: actionContext
+   at Microsoft.AspNetCore.Mvc.Routing.UrlHelper..ctor(ActionContext actionContext)
+   at TeamTrack.Api.Controllers.UserController.Get(Int32 page, Int32 pageSize, Boolean includePassive, String userName) in C:\Projects\TeamTrack\TeamTrack.Api\Controllers\UserController.cs:line 58
+2016-07-28 15:38:22.9873 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 15:38:24.5373 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 15:38:25.1905 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 15:38:25.4586 ERROR An unhandled exception has occurred while executing the request
+2016-07-28 15:38:38.8788 ERROR An unhandled exception has occurred while executing the request

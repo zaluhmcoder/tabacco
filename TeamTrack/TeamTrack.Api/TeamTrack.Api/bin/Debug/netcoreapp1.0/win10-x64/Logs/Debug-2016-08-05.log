@@ -1,0 +1,23 @@
+2016-08-05 10:59:59.4387 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-05 10:59:59.4983 DEBUG Hosting starting
+2016-08-05 10:59:59.5677 DEBUG Hosting started
+2016-08-05 10:59:59.6908 DEBUG Connection id "0HKTT0PVOS54C" started.
+2016-08-05 10:59:59.7728 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-05 11:00:00.0120 DEBUG Request did not match any routes.
+2016-08-05 11:00:00.0350 INFO Request finished in 277.175ms 404 
+2016-08-05 11:00:00.0685 DEBUG Connection id "0HKTT0PVOS54C" completed keep alive response.
+2016-08-05 11:00:00.2557 INFO Request starting HTTP/1.1 GET http://localhost:20584/favicon.ico  
+2016-08-05 11:00:00.2557 DEBUG Request did not match any routes.
+2016-08-05 11:00:00.2617 INFO Request finished in 6.2738ms 404 
+2016-08-05 11:00:00.2617 DEBUG Connection id "0HKTT0PVOS54C" completed keep alive response.
+2016-08-05 11:00:05.4762 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-05 11:00:05.4898 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-05 11:00:05.5479 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-05 11:00:05.7245 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-05 11:00:07.4364 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-05 11:00:07.4650 DEBUG No information found on request to perform content negotiation.
+2016-08-05 11:00:07.4650 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-05 11:00:07.4650 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-05 11:00:07.7122 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 2159.3519ms
+2016-08-05 11:00:07.7213 INFO Request finished in 2244.8998ms 200 application/json; charset=utf-8
+2016-08-05 11:00:07.7213 DEBUG Connection id "0HKTT0PVOS54C" completed keep alive response.

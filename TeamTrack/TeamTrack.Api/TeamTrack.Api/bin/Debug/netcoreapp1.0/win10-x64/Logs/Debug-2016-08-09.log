@@ -1,0 +1,245 @@
+2016-08-09 15:02:43.0588 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:02:43.1435 DEBUG Hosting starting
+2016-08-09 15:02:43.2661 DEBUG Hosting started
+2016-08-09 15:02:43.3176 DEBUG Connection id "0HKU09K8SS1LK" started.
+2016-08-09 15:02:43.3211 DEBUG Connection id "0HKU09K8SS1LJ" started.
+2016-08-09 15:02:43.4172 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-09 15:02:43.4172 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-09 15:02:43.4819 INFO Request finished in 74.7146ms 200 
+2016-08-09 15:02:43.5254 DEBUG Connection id "0HKU09K8SS1LK" completed keep alive response.
+2016-08-09 15:02:43.7395 DEBUG Request did not match any routes.
+2016-08-09 15:02:43.7596 INFO Request finished in 370.0082ms 404 
+2016-08-09 15:02:43.7596 DEBUG Connection id "0HKU09K8SS1LJ" completed keep alive response.
+2016-08-09 15:02:55.4629 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:02:55.4629 INFO Handling request: /api/token
+2016-08-09 15:02:55.7314 INFO Request finished in 268.4959ms 200 application/json
+2016-08-09 15:02:55.7314 DEBUG Connection id "0HKU09K8SS1LK" completed keep alive response.
+2016-08-09 15:03:01.7725 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:03:01.7885 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:03:01.8450 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:03:01.8830 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-09 15:03:01.8830 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-09 15:03:02.1049 INFO Request finished in 332.283ms 500 text/html; charset=utf-8
+2016-08-09 15:03:02.1049 DEBUG Connection id "0HKU09K8SS1LJ" completed keep alive response.
+2016-08-09 15:05:28.0756 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:05:28.1788 DEBUG Hosting starting
+2016-08-09 15:05:28.2693 DEBUG Hosting started
+2016-08-09 15:05:28.3425 DEBUG Connection id "0HKU09LQ2LPA9" started.
+2016-08-09 15:05:28.3425 DEBUG Connection id "0HKU09LQ2LPA8" started.
+2016-08-09 15:05:28.4450 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-09 15:05:28.4450 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-09 15:05:28.5180 INFO Request finished in 76.5731ms 200 
+2016-08-09 15:05:28.5541 DEBUG Connection id "0HKU09LQ2LPA9" completed keep alive response.
+2016-08-09 15:05:28.7527 DEBUG Request did not match any routes.
+2016-08-09 15:05:28.7712 INFO Request finished in 353.1924ms 404 
+2016-08-09 15:05:28.7752 DEBUG Connection id "0HKU09LQ2LPA8" completed keep alive response.
+2016-08-09 15:05:30.7660 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:05:30.7735 INFO Handling request: /api/token
+2016-08-09 15:05:31.0301 INFO Request finished in 264.4382ms 200 application/json
+2016-08-09 15:05:31.0301 DEBUG Connection id "0HKU09LQ2LPA9" completed keep alive response.
+2016-08-09 15:05:34.3056 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:05:34.3241 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:05:34.3771 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:05:34.4143 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-09 15:05:34.4143 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-09 15:05:34.6232 INFO Request finished in 317.3663ms 500 text/html; charset=utf-8
+2016-08-09 15:05:34.6232 DEBUG Connection id "0HKU09LQ2LPA8" completed keep alive response.
+2016-08-09 15:07:18.3247 DEBUG Connection id "0HKU09LQ2LPA8" received FIN.
+2016-08-09 15:07:18.3247 DEBUG Connection id "0HKU09LQ2LPA9" received FIN.
+2016-08-09 15:07:18.3347 DEBUG Connection id "0HKU09LQ2LPA9" disconnecting.
+2016-08-09 15:07:18.3347 DEBUG Connection id "0HKU09LQ2LPA8" disconnecting.
+2016-08-09 15:07:18.3347 DEBUG Connection id "0HKU09LQ2LPA8" sending FIN.
+2016-08-09 15:07:18.3347 DEBUG Connection id "0HKU09LQ2LPA9" sending FIN.
+2016-08-09 15:07:18.3557 DEBUG Connection id "0HKU09LQ2LPA9" sent FIN with status "0".
+2016-08-09 15:07:18.3557 DEBUG Connection id "0HKU09LQ2LPA8" sent FIN with status "0".
+2016-08-09 15:07:18.3557 DEBUG Connection id "0HKU09LQ2LPA8" stopped.
+2016-08-09 15:07:18.3557 DEBUG Connection id "0HKU09LQ2LPA9" stopped.
+2016-08-09 15:19:18.2570 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:19:18.3170 DEBUG Hosting starting
+2016-08-09 15:19:18.3871 DEBUG Hosting started
+2016-08-09 15:19:18.5117 DEBUG Connection id "0HKU09THFPAMR" started.
+2016-08-09 15:19:18.5957 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-09 15:19:18.8359 DEBUG Request did not match any routes.
+2016-08-09 15:19:18.8589 INFO Request finished in 278.2977ms 404 
+2016-08-09 15:19:18.8929 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:21.2321 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:19:21.2491 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:19:21.3082 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:19:21.3372 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-09 15:19:21.3372 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-09 15:19:21.5213 INFO Request finished in 289.2021ms 500 text/html; charset=utf-8
+2016-08-09 15:19:21.5273 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:22.6991 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:19:22.6991 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:19:22.7111 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:19:22.7111 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-09 15:19:22.7111 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-09 15:19:22.7532 INFO Request finished in 53.2754ms 500 text/html; charset=utf-8
+2016-08-09 15:19:22.7572 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:27.0617 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:27.0687 INFO Handling request: /api/token
+2016-08-09 15:19:27.2838 INFO Request finished in 222.0509ms 200 application/json
+2016-08-09 15:19:27.2878 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:28.2182 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:28.2182 INFO Handling request: /api/token
+2016-08-09 15:19:28.2272 INFO Request finished in 8.7477ms 200 application/json
+2016-08-09 15:19:28.2272 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:28.8850 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:28.8850 INFO Handling request: /api/token
+2016-08-09 15:19:28.8850 INFO Request finished in 8.6925ms 200 application/json
+2016-08-09 15:19:28.9000 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:29.7116 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:29.7116 INFO Handling request: /api/token
+2016-08-09 15:19:29.7116 INFO Request finished in 8.67ms 200 application/json
+2016-08-09 15:19:29.7116 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:40.2638 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:40.2638 INFO Handling request: /api/token
+2016-08-09 15:19:40.2738 INFO Request finished in 9.4796ms 200 application/json
+2016-08-09 15:19:40.2738 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:40.8121 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:40.8121 INFO Handling request: /api/token
+2016-08-09 15:19:40.8201 INFO Request finished in 8.2875ms 200 application/json
+2016-08-09 15:19:40.8201 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:41.1908 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:41.1978 INFO Handling request: /api/token
+2016-08-09 15:19:41.1978 INFO Request finished in 11.3531ms 200 application/json
+2016-08-09 15:19:41.1978 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:19:41.3714 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:19:41.3714 INFO Handling request: /api/token
+2016-08-09 15:19:41.3714 INFO Request finished in 8.7584ms 200 application/json
+2016-08-09 15:19:41.3864 DEBUG Connection id "0HKU09THFPAMR" completed keep alive response.
+2016-08-09 15:24:49.8193 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:24:49.8793 DEBUG Hosting starting
+2016-08-09 15:24:49.9464 DEBUG Hosting started
+2016-08-09 15:24:50.0754 DEBUG Connection id "0HKU0A0K9QHE3" started.
+2016-08-09 15:24:50.1574 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:24:50.2055 INFO Handling request: /api/token
+2016-08-09 15:24:50.4697 INFO Request finished in 326.9384ms 200 application/json
+2016-08-09 15:24:50.4797 DEBUG Connection id "0HKU0A0K9QHE3" completed keep alive response.
+2016-08-09 15:24:53.0884 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:24:53.2805 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:24:53.3276 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:24:53.3666 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-09 15:24:53.3666 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-09 15:24:53.5507 INFO Request finished in 462.4549ms 500 text/html; charset=utf-8
+2016-08-09 15:24:53.5547 DEBUG Connection id "0HKU0A0K9QHE3" completed keep alive response.
+2016-08-09 15:26:40.0602 DEBUG Connection id "0HKU0A0K9QHE3" received FIN.
+2016-08-09 15:26:40.0602 DEBUG Connection id "0HKU0A0K9QHE3" disconnecting.
+2016-08-09 15:26:40.0702 DEBUG Connection id "0HKU0A0K9QHE3" sending FIN.
+2016-08-09 15:26:40.0702 DEBUG Connection id "0HKU0A0K9QHE3" sent FIN with status "0".
+2016-08-09 15:26:40.0702 DEBUG Connection id "0HKU0A0K9QHE3" stopped.
+2016-08-09 15:49:48.4984 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:49:48.5655 DEBUG Hosting starting
+2016-08-09 15:49:48.6330 DEBUG Hosting started
+2016-08-09 15:49:48.7935 DEBUG Connection id "0HKU0AEIUN5O7" started.
+2016-08-09 15:49:48.8766 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:49:49.1213 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:49:49.1823 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:49:49.2088 DEBUG AuthenticationScheme: Bearer was not authenticated.
+2016-08-09 15:49:49.2308 INFO Authorization failed for user: .
+2016-08-09 15:49:49.2308 WARN Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2016-08-09 15:49:49.2434 INFO Executing ChallengeResult with authentication schemes (Bearer).
+2016-08-09 15:49:49.2624 INFO AuthenticationScheme: Bearer was challenged.
+2016-08-09 15:49:49.2859 INFO Request finished in 426.6944ms 401 
+2016-08-09 15:49:49.3219 DEBUG Connection id "0HKU0AEIUN5O7" completed keep alive response.
+2016-08-09 15:49:58.7706 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-09 15:49:58.7771 INFO Handling request: /api/token
+2016-08-09 15:49:58.9857 INFO Request finished in 215.3278ms 200 application/json
+2016-08-09 15:49:58.9917 DEBUG Connection id "0HKU0AEIUN5O7" completed keep alive response.
+2016-08-09 15:50:15.1759 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:50:15.2489 INFO Successfully validated the token.
+2016-08-09 15:50:15.2574 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-09 15:50:15.2574 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:50:15.2574 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:50:15.2574 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-09 15:50:15.2750 INFO Authorization was successful for user: TEST.
+2016-08-09 15:50:15.4381 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-09 15:50:17.0986 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-09 15:50:17.1341 DEBUG No information found on request to perform content negotiation.
+2016-08-09 15:50:17.1341 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-09 15:50:17.1486 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-09 15:50:17.2452 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 1974.25ms
+2016-08-09 15:50:17.2452 INFO Request finished in 2078.0381ms 200 application/json; charset=utf-8
+2016-08-09 15:50:17.2597 DEBUG Connection id "0HKU0AEIUN5O7" completed keep alive response.
+2016-08-09 15:50:19.7460 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:50:19.7460 INFO Successfully validated the token.
+2016-08-09 15:50:19.7601 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-09 15:50:19.7601 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:50:19.7726 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:50:19.7726 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-09 15:50:19.7726 INFO Authorization was successful for user: TEST.
+2016-08-09 15:50:19.7906 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-09 15:50:19.8231 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-09 15:50:19.8351 DEBUG No information found on request to perform content negotiation.
+2016-08-09 15:50:19.8351 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-09 15:50:19.8506 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-09 15:50:19.8506 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 79.036ms
+2016-08-09 15:50:19.8656 INFO Request finished in 119.568ms 200 application/json; charset=utf-8
+2016-08-09 15:50:19.8656 DEBUG Connection id "0HKU0AEIUN5O7" completed keep alive response.
+2016-08-09 15:50:43.7570 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:50:43.8236 DEBUG Hosting starting
+2016-08-09 15:50:43.8947 DEBUG Hosting started
+2016-08-09 15:50:44.0561 DEBUG Connection id "0HKU0AF3DNVK5" started.
+2016-08-09 15:50:44.1422 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:50:44.3949 INFO Successfully validated the token.
+2016-08-09 15:50:44.4119 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-09 15:50:44.6030 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:50:44.6596 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:50:44.6951 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-09 15:50:44.6951 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-09 15:50:44.9232 INFO Request finished in 795.876ms 500 text/html; charset=utf-8
+2016-08-09 15:50:44.9373 DEBUG Connection id "0HKU0AF3DNVK5" completed keep alive response.
+2016-08-09 15:51:52.1477 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-09 15:51:52.2158 DEBUG Hosting starting
+2016-08-09 15:51:52.2868 DEBUG Hosting started
+2016-08-09 15:51:52.4498 DEBUG Connection id "0HKU0AFNPVTSG" started.
+2016-08-09 15:51:52.5344 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:51:52.7836 INFO Successfully validated the token.
+2016-08-09 15:51:52.7985 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-09 15:51:52.9902 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:51:53.0457 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:51:53.0732 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-09 15:51:53.0912 INFO Authorization was successful for user: TEST.
+2016-08-09 15:51:53.2579 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-09 15:51:54.9309 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-09 15:51:54.9649 DEBUG No information found on request to perform content negotiation.
+2016-08-09 15:51:54.9759 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-09 15:51:54.9759 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-09 15:51:55.1685 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 2115.3583ms
+2016-08-09 15:51:55.1896 INFO Request finished in 2672.5361ms 200 application/json; charset=utf-8
+2016-08-09 15:51:55.2036 DEBUG Connection id "0HKU0AFNPVTSG" completed keep alive response.
+2016-08-09 15:51:57.7940 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:51:57.7940 INFO Successfully validated the token.
+2016-08-09 15:51:57.8075 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-09 15:51:57.8075 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:51:57.8200 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:51:57.8200 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-09 15:51:57.8200 INFO Authorization was successful for user: TEST.
+2016-08-09 15:51:57.8385 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-09 15:51:57.8766 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-09 15:51:57.8881 DEBUG No information found on request to perform content negotiation.
+2016-08-09 15:51:57.8881 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-09 15:51:57.9061 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-09 15:51:57.9131 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 87.5497ms
+2016-08-09 15:51:57.9131 INFO Request finished in 127.8278ms 200 application/json; charset=utf-8
+2016-08-09 15:51:57.9296 DEBUG Connection id "0HKU0AFNPVTSG" completed keep alive response.
+2016-08-09 15:51:58.6752 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-09 15:51:58.6877 INFO Successfully validated the token.
+2016-08-09 15:51:58.6972 INFO HttpContext.User merged via AutomaticAuthentication from authenticationScheme: Bearer.
+2016-08-09 15:51:58.6972 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-09 15:51:58.7137 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-09 15:51:58.7137 INFO AuthenticationScheme: Bearer was successfully authenticated.
+2016-08-09 15:51:58.7292 INFO Authorization was successful for user: TEST.
+2016-08-09 15:51:58.7292 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-09 15:51:58.7467 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-09 15:51:58.7467 DEBUG No information found on request to perform content negotiation.
+2016-08-09 15:51:58.7638 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-09 15:51:58.7723 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-09 15:51:58.7723 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 59.0412ms
+2016-08-09 15:51:58.7893 INFO Request finished in 114.2703ms 200 application/json; charset=utf-8
+2016-08-09 15:51:58.7893 DEBUG Connection id "0HKU0AFNPVTSG" completed keep alive response.
+2016-08-09 15:53:42.4330 DEBUG Connection id "0HKU0AFNPVTSG" received FIN.
+2016-08-09 15:53:42.4446 DEBUG Connection id "0HKU0AFNPVTSG" disconnecting.
+2016-08-09 15:53:42.4446 DEBUG Connection id "0HKU0AFNPVTSG" sending FIN.
+2016-08-09 15:53:42.4681 DEBUG Connection id "0HKU0AFNPVTSG" sent FIN with status "0".
+2016-08-09 15:53:42.4806 DEBUG Connection id "0HKU0AFNPVTSG" stopped.

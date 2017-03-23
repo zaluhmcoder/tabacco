@@ -1,0 +1,284 @@
+2016-08-08 14:42:25.2555 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 14:42:25.3166 DEBUG Hosting starting
+2016-08-08 14:42:25.4178 DEBUG Hosting started
+2016-08-08 14:42:25.5959 DEBUG Connection id "0HKTVG48P5LVB" started.
+2016-08-08 14:42:25.6815 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 14:42:25.9171 DEBUG Request did not match any routes.
+2016-08-08 14:42:25.9396 INFO Request finished in 273.5772ms 404 
+2016-08-08 14:42:25.9732 DEBUG Connection id "0HKTVG48P5LVB" completed keep alive response.
+2016-08-08 14:42:40.8846 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 14:42:40.8981 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-08 14:42:40.9567 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-08 14:42:41.1823 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-08 14:42:42.8597 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-08 14:42:42.8877 DEBUG No information found on request to perform content negotiation.
+2016-08-08 14:42:42.8877 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-08 14:42:42.9001 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-08 14:42:43.1377 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 2175.737ms
+2016-08-08 14:42:43.1497 INFO Request finished in 2265.1903ms 200 application/json; charset=utf-8
+2016-08-08 14:42:43.1497 DEBUG Connection id "0HKTVG48P5LVB" completed keep alive response.
+2016-08-08 14:44:15.5803 DEBUG Connection id "0HKTVG48P5LVB" received FIN.
+2016-08-08 14:44:15.5863 DEBUG Connection id "0HKTVG48P5LVB" disconnecting.
+2016-08-08 14:44:15.5863 DEBUG Connection id "0HKTVG48P5LVB" sending FIN.
+2016-08-08 14:44:15.5863 DEBUG Connection id "0HKTVG48P5LVB" sent FIN with status "0".
+2016-08-08 14:44:15.6053 DEBUG Connection id "0HKTVG48P5LVB" stopped.
+2016-08-08 15:37:36.6449 DEBUG Hosting starting
+2016-08-08 15:37:36.7210 DEBUG Hosting started
+2016-08-08 15:37:36.9362 DEBUG Connection id "0HKTVH33KHP3I" started.
+2016-08-08 15:37:37.0183 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 15:37:37.0643 INFO Request finished in 59.5264ms 500 text/html; charset=utf-8
+2016-08-08 15:37:37.0783 DEBUG Connection id "0HKTVH33KHP3I" completed keep alive response.
+2016-08-08 15:38:34.9016 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 15:38:34.9016 INFO Request finished in 5.6911ms 500 text/html; charset=utf-8
+2016-08-08 15:38:34.9156 DEBUG Connection id "0HKTVH33KHP3I" completed keep alive response.
+2016-08-08 15:38:57.4320 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 15:38:57.4320 INFO Request finished in 5.9091ms 500 text/html; charset=utf-8
+2016-08-08 15:38:57.4450 DEBUG Connection id "0HKTVH33KHP3I" completed keep alive response.
+2016-08-08 15:39:00.1357 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 15:39:00.1357 INFO Request finished in 6.348ms 500 text/html; charset=utf-8
+2016-08-08 15:39:00.1477 DEBUG Connection id "0HKTVH33KHP3I" completed keep alive response.
+2016-08-08 15:39:05.1993 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 15:39:05.1993 INFO Request finished in 5.3556ms 500 text/html; charset=utf-8
+2016-08-08 15:39:05.2114 DEBUG Connection id "0HKTVH33KHP3I" completed keep alive response.
+2016-08-08 15:39:08.8033 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 15:39:08.8083 INFO Request finished in 5.5131ms 500 text/html; charset=utf-8
+2016-08-08 15:39:08.8083 DEBUG Connection id "0HKTVH33KHP3I" completed keep alive response.
+2016-08-08 15:39:59.8351 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 15:39:59.9176 DEBUG Hosting starting
+2016-08-08 15:40:00.0077 DEBUG Hosting started
+2016-08-08 15:40:00.0758 DEBUG Connection id "0HKTVH4E9KQMI" started.
+2016-08-08 15:40:00.0758 DEBUG Connection id "0HKTVH4E9KQMH" started.
+2016-08-08 15:40:00.1744 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 15:40:00.1744 INFO Request starting HTTP/1.1 DEBUG http://localhost:20584/  0
+2016-08-08 15:40:00.2504 INFO Request finished in 78.8524ms 200 
+2016-08-08 15:40:00.2924 DEBUG Connection id "0HKTVH4E9KQMI" completed keep alive response.
+2016-08-08 15:40:00.4895 DEBUG Request did not match any routes.
+2016-08-08 15:40:00.5095 INFO Request finished in 363.156ms 404 
+2016-08-08 15:40:00.5095 DEBUG Connection id "0HKTVH4E9KQMH" completed keep alive response.
+2016-08-08 15:41:50.0560 DEBUG Connection id "0HKTVH4E9KQMI" received FIN.
+2016-08-08 15:41:50.0560 DEBUG Connection id "0HKTVH4E9KQMH" received FIN.
+2016-08-08 15:41:50.0560 DEBUG Connection id "0HKTVH4E9KQMI" disconnecting.
+2016-08-08 15:41:50.0560 DEBUG Connection id "0HKTVH4E9KQMH" disconnecting.
+2016-08-08 15:41:50.0716 DEBUG Connection id "0HKTVH4E9KQMH" sending FIN.
+2016-08-08 15:41:50.0716 DEBUG Connection id "0HKTVH4E9KQMI" sending FIN.
+2016-08-08 15:41:50.0716 DEBUG Connection id "0HKTVH4E9KQMI" sent FIN with status "0".
+2016-08-08 15:41:50.0716 DEBUG Connection id "0HKTVH4E9KQMH" sent FIN with status "0".
+2016-08-08 15:41:50.0918 DEBUG Connection id "0HKTVH4E9KQMH" stopped.
+2016-08-08 15:41:50.0918 DEBUG Connection id "0HKTVH4E9KQMI" stopped.
+2016-08-08 15:42:22.2453 DEBUG Connection id "0HKTVH4E9KQMJ" started.
+2016-08-08 15:42:22.2453 INFO Request starting HTTP/1.1 GET http://localhost:20584/v1/users  
+2016-08-08 15:42:22.2794 DEBUG Request did not match any routes.
+2016-08-08 15:42:22.2794 INFO Request finished in 31.2848ms 404 
+2016-08-08 15:42:22.2794 DEBUG Connection id "0HKTVH4E9KQMJ" completed keep alive response.
+2016-08-08 15:42:43.5622 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 15:42:43.5782 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-08 15:42:43.6384 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-08 15:42:43.8502 INFO Executing action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) with arguments (0, 10, False, ) - ModelState is Valid
+2016-08-08 15:42:47.5033 DEBUG Executed action method TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2016-08-08 15:42:47.5345 DEBUG No information found on request to perform content negotiation.
+2016-08-08 15:42:47.5502 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+2016-08-08 15:42:47.5502 INFO Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2016-08-08 15:42:47.7906 INFO Executed action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api) in 4147.043ms
+2016-08-08 15:42:47.7906 INFO Request finished in 4237.2021ms 200 application/json; charset=utf-8
+2016-08-08 15:42:47.8066 DEBUG Connection id "0HKTVH4E9KQMJ" completed keep alive response.
+2016-08-08 15:43:00.2091 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token  0
+2016-08-08 15:43:00.2181 INFO Request finished in 9.6995ms 400 
+2016-08-08 15:43:00.2181 DEBUG Connection id "0HKTVH4E9KQMJ" completed keep alive response.
+2016-08-08 15:45:30.0661 DEBUG Connection id "0HKTVH4E9KQMJ" received FIN.
+2016-08-08 15:45:30.0661 DEBUG Connection id "0HKTVH4E9KQMJ" disconnecting.
+2016-08-08 15:45:30.0817 DEBUG Connection id "0HKTVH4E9KQMJ" sending FIN.
+2016-08-08 15:45:30.0817 DEBUG Connection id "0HKTVH4E9KQMJ" sent FIN with status "0".
+2016-08-08 15:45:30.0817 DEBUG Connection id "0HKTVH4E9KQMJ" stopped.
+2016-08-08 16:04:57.1122 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 16:04:57.1733 DEBUG Hosting starting
+2016-08-08 16:04:57.2424 DEBUG Hosting started
+2016-08-08 16:04:57.4496 DEBUG Connection id "0HKTVHICHNL67" started.
+2016-08-08 16:04:57.5332 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 16:04:57.7678 DEBUG Request did not match any routes.
+2016-08-08 16:04:57.7934 INFO Request finished in 275.3114ms 404 
+2016-08-08 16:04:57.8285 DEBUG Connection id "0HKTVHICHNL67" completed keep alive response.
+2016-08-08 16:05:01.7415 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token  0
+2016-08-08 16:05:01.7570 INFO Request finished in 15.53ms 400 
+2016-08-08 16:05:01.7570 DEBUG Connection id "0HKTVHICHNL67" completed keep alive response.
+2016-08-08 16:06:14.5886 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 16:06:14.6501 DEBUG Hosting starting
+2016-08-08 16:06:14.7187 DEBUG Hosting started
+2016-08-08 16:06:14.8925 DEBUG Connection id "0HKTVHJ3K96P3" started.
+2016-08-08 16:06:14.9766 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token  0
+2016-08-08 16:06:15.0631 INFO Request finished in 101.5312ms 400 
+2016-08-08 16:06:15.0746 DEBUG Connection id "0HKTVHJ3K96P3" completed keep alive response.
+2016-08-08 16:07:15.4922 DEBUG Connection id "0HKTVHJ3K96P4" started.
+2016-08-08 16:07:15.4922 DEBUG Connection id "0HKTVHJ3K96P3" received FIN.
+2016-08-08 16:07:15.4922 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 0
+2016-08-08 16:07:15.5087 DEBUG Connection id "0HKTVHJ3K96P3" disconnecting.
+2016-08-08 16:07:15.5087 INFO Handling request: /api/token
+2016-08-08 16:07:15.5087 DEBUG Connection id "0HKTVHJ3K96P3" sending FIN.
+2016-08-08 16:07:15.5317 DEBUG Connection id "0HKTVHJ3K96P3" sent FIN with status "0".
+2016-08-08 16:07:15.5392 DEBUG Connection id "0HKTVHJ3K96P3" stopped.
+2016-08-08 16:07:15.5561 INFO Request finished in 56.2069ms 400 
+2016-08-08 16:07:15.5561 DEBUG Connection id "0HKTVHJ3K96P4" completed keep alive response.
+2016-08-08 16:07:47.5151 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:07:47.5151 INFO Handling request: /api/token
+2016-08-08 16:07:47.7175 INFO Request finished in 202.2172ms 200 application/json
+2016-08-08 16:07:47.7175 DEBUG Connection id "0HKTVHJ3K96P4" completed keep alive response.
+2016-08-08 16:09:54.8739 DEBUG Connection id "0HKTVHJ3K96P4" received FIN.
+2016-08-08 16:09:54.8739 DEBUG Connection id "0HKTVHJ3K96P4" disconnecting.
+2016-08-08 16:09:54.8823 DEBUG Connection id "0HKTVHJ3K96P4" sending FIN.
+2016-08-08 16:09:54.8823 DEBUG Connection id "0HKTVHJ3K96P4" sent FIN with status "0".
+2016-08-08 16:09:54.8823 DEBUG Connection id "0HKTVHJ3K96P4" stopped.
+2016-08-08 16:15:14.9506 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 16:15:15.0096 DEBUG Hosting starting
+2016-08-08 16:15:15.0779 DEBUG Hosting started
+2016-08-08 16:15:15.2167 DEBUG Connection id "0HKTVHO4L72CQ" started.
+2016-08-08 16:15:15.3008 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 16:15:15.5395 DEBUG Request did not match any routes.
+2016-08-08 16:15:15.5625 INFO Request finished in 278.3881ms 404 
+2016-08-08 16:15:15.5960 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:18.5378 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:18.5443 INFO Handling request: /api/token
+2016-08-08 16:15:18.7724 INFO Request finished in 234.7751ms 200 application/json
+2016-08-08 16:15:18.7779 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:19.8003 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:19.8003 INFO Handling request: /api/token
+2016-08-08 16:15:19.8073 INFO Request finished in 7.3716ms 200 application/json
+2016-08-08 16:15:19.8073 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:21.7672 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:21.7672 INFO Handling request: /api/token
+2016-08-08 16:15:21.7757 INFO Request finished in 8.1828ms 200 application/json
+2016-08-08 16:15:21.7757 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:23.7898 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:23.7898 INFO Handling request: /api/token
+2016-08-08 16:15:23.7898 INFO Request finished in 9.3667ms 200 application/json
+2016-08-08 16:15:23.7898 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:24.3368 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:24.3368 INFO Handling request: /api/token
+2016-08-08 16:15:24.3368 INFO Request finished in 7.115ms 200 application/json
+2016-08-08 16:15:24.3368 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:24.8129 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:24.8129 INFO Handling request: /api/token
+2016-08-08 16:15:24.8204 INFO Request finished in 7.7005ms 200 application/json
+2016-08-08 16:15:24.8204 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:25.3209 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:25.3209 INFO Handling request: /api/token
+2016-08-08 16:15:25.3209 INFO Request finished in 7.0081ms 200 application/json
+2016-08-08 16:15:25.3209 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:15:25.8985 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:15:25.8985 INFO Handling request: /api/token
+2016-08-08 16:15:25.8985 INFO Request finished in 6.7392ms 200 application/json
+2016-08-08 16:15:25.8985 DEBUG Connection id "0HKTVHO4L72CQ" completed keep alive response.
+2016-08-08 16:16:34.4760 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 16:16:34.5395 DEBUG Hosting starting
+2016-08-08 16:16:34.6066 DEBUG Hosting started
+2016-08-08 16:16:34.7845 DEBUG Connection id "0HKTVHOSC1BPL" started.
+2016-08-08 16:16:34.8660 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:16:34.9140 INFO Handling request: /api/token
+2016-08-08 16:16:35.1717 INFO Request finished in 319.8553ms 200 application/json
+2016-08-08 16:16:35.1812 DEBUG Connection id "0HKTVHOSC1BPL" completed keep alive response.
+2016-08-08 16:16:39.8086 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 31
+2016-08-08 16:16:39.8086 INFO Handling request: /api/token
+2016-08-08 16:16:39.8086 INFO Request finished in 8.6846ms 400 
+2016-08-08 16:16:39.8211 DEBUG Connection id "0HKTVHOSC1BPL" completed keep alive response.
+2016-08-08 16:16:43.3156 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:16:43.3196 INFO Handling request: /api/token
+2016-08-08 16:16:43.3196 INFO Request finished in 7.6033ms 200 application/json
+2016-08-08 16:16:43.3196 DEBUG Connection id "0HKTVHOSC1BPL" completed keep alive response.
+2016-08-08 16:23:15.8354 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 16:23:15.9787 DEBUG Hosting starting
+2016-08-08 16:23:16.0471 DEBUG Hosting started
+2016-08-08 16:23:16.1032 DEBUG Connection id "0HKTVHSJVA3QU" started.
+2016-08-08 16:23:16.1862 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:23:16.2303 INFO Request finished in 58.468ms 500 text/html; charset=utf-8
+2016-08-08 16:23:16.2303 DEBUG Connection id "0HKTVHSJVA3QU" completed keep alive response.
+2016-08-08 16:23:22.8471 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 16:23:22.8511 INFO Request finished in 4.2953ms 500 text/html; charset=utf-8
+2016-08-08 16:23:22.8511 DEBUG Connection id "0HKTVHSJVA3QU" completed keep alive response.
+2016-08-08 16:23:51.1486 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 16:23:51.2126 DEBUG Hosting starting
+2016-08-08 16:23:51.2827 DEBUG Hosting started
+2016-08-08 16:23:51.3777 DEBUG Connection id "0HKTVHSUFMSGB" started.
+2016-08-08 16:23:51.4612 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 16:23:51.7089 DEBUG Request did not match any routes.
+2016-08-08 16:23:51.7334 INFO Request finished in 287.6475ms 404 
+2016-08-08 16:23:51.7679 DEBUG Connection id "0HKTVHSUFMSGB" completed keep alive response.
+2016-08-08 16:23:52.7764 INFO Request starting HTTP/1.1 POST http://localhost:20584/api/token application/x-www-form-urlencoded 30
+2016-08-08 16:23:52.7764 INFO Handling request: /api/token
+2016-08-08 16:23:53.0231 INFO Request finished in 246.9987ms 200 application/json
+2016-08-08 16:23:53.0231 DEBUG Connection id "0HKTVHSUFMSGB" completed keep alive response.
+2016-08-08 16:25:41.3609 DEBUG Connection id "0HKTVHSUFMSGB" received FIN.
+2016-08-08 16:25:41.3609 DEBUG Connection id "0HKTVHSUFMSGB" disconnecting.
+2016-08-08 16:25:41.3695 DEBUG Connection id "0HKTVHSUFMSGB" sending FIN.
+2016-08-08 16:25:41.3695 DEBUG Connection id "0HKTVHSUFMSGB" sent FIN with status "0".
+2016-08-08 16:25:41.3695 DEBUG Connection id "0HKTVHSUFMSGB" stopped.
+2016-08-08 17:03:33.3288 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 17:03:33.3893 DEBUG Hosting starting
+2016-08-08 17:03:33.4562 DEBUG Hosting started
+2016-08-08 17:03:33.6351 DEBUG Connection id "0HKTVIJ4EM57P" started.
+2016-08-08 17:03:33.7172 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 17:03:33.9528 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-08 17:03:34.0119 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-08 17:03:34.0439 INFO Authorization failed for user: .
+2016-08-08 17:03:34.0439 WARN Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2016-08-08 17:03:34.0559 INFO Executing ChallengeResult with authentication schemes ().
+2016-08-08 17:03:34.0829 INFO AuthenticationScheme: Identity.Application was challenged.
+2016-08-08 17:03:34.1084 INFO Request finished in 406.2701ms 302 
+2016-08-08 17:03:34.1425 DEBUG Connection id "0HKTVIJ4EM57P" completed keep alive response.
+2016-08-08 17:03:34.1500 INFO Request starting HTTP/1.1 GET http://localhost:20584/Account/Login?ReturnUrl=%2Fapi%2Fv1%2Fusers  
+2016-08-08 17:03:34.1500 DEBUG Request did not match any routes.
+2016-08-08 17:03:34.1500 INFO Request finished in 10.2403ms 404 
+2016-08-08 17:03:34.1645 DEBUG Connection id "0HKTVIJ4EM57P" completed keep alive response.
+2016-08-08 17:03:46.1136 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 17:03:46.1176 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-08 17:03:46.1176 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-08 17:03:46.1176 INFO Authorization failed for user: .
+2016-08-08 17:03:46.1176 WARN Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2016-08-08 17:03:46.1336 INFO Executing ChallengeResult with authentication schemes ().
+2016-08-08 17:03:46.1336 INFO AuthenticationScheme: Identity.Application was challenged.
+2016-08-08 17:03:46.1336 INFO Request finished in 26.8098ms 302 
+2016-08-08 17:03:46.1336 DEBUG Connection id "0HKTVIJ4EM57P" completed keep alive response.
+2016-08-08 17:03:46.1336 INFO Request starting HTTP/1.1 GET http://localhost:20584/Account/Login?ReturnUrl=%2Fapi%2Fv1%2Fusers  
+2016-08-08 17:03:46.1496 DEBUG Request did not match any routes.
+2016-08-08 17:03:46.1496 INFO Request finished in 6.5142ms 404 
+2016-08-08 17:03:46.1496 DEBUG Connection id "0HKTVIJ4EM57P" completed keep alive response.
+2016-08-08 17:04:47.2009 DEBUG Connection id "0HKTVIJ4EM57Q" started.
+2016-08-08 17:04:47.2009 DEBUG Connection id "0HKTVIJ4EM57P" received FIN.
+2016-08-08 17:04:47.2009 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 17:04:47.2009 DEBUG Connection id "0HKTVIJ4EM57P" disconnecting.
+2016-08-08 17:04:47.2154 DEBUG Request did not match any routes.
+2016-08-08 17:04:47.2154 DEBUG Connection id "0HKTVIJ4EM57P" sending FIN.
+2016-08-08 17:04:47.2154 INFO Request finished in 12.8777ms 404 
+2016-08-08 17:04:47.2154 DEBUG Connection id "0HKTVIJ4EM57P" sent FIN with status "0".
+2016-08-08 17:04:47.2154 DEBUG Connection id "0HKTVIJ4EM57Q" completed keep alive response.
+2016-08-08 17:04:47.2319 DEBUG Connection id "0HKTVIJ4EM57P" stopped.
+2016-08-08 17:04:52.6234 INFO Request starting HTTP/1.1 GET http://localhost:20584/  
+2016-08-08 17:04:52.6234 DEBUG Request did not match any routes.
+2016-08-08 17:04:52.6234 INFO Request finished in 7.3471ms 404 
+2016-08-08 17:04:52.6339 DEBUG Connection id "0HKTVIJ4EM57Q" completed keep alive response.
+2016-08-08 17:05:00.2831 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 17:05:00.2831 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-08 17:05:00.2925 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-08 17:05:00.2925 INFO Authorization failed for user: .
+2016-08-08 17:05:00.2925 WARN Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2016-08-08 17:05:00.2925 INFO Executing ChallengeResult with authentication schemes ().
+2016-08-08 17:05:00.3051 INFO AuthenticationScheme: Identity.Application was challenged.
+2016-08-08 17:05:00.3051 INFO Request finished in 24.9154ms 302 
+2016-08-08 17:05:00.3051 DEBUG Connection id "0HKTVIJ4EM57Q" completed keep alive response.
+2016-08-08 17:05:00.3201 INFO Request starting HTTP/1.1 GET http://localhost:20584/Account/Login?ReturnUrl=%2Fapi%2Fv1%2Fusers  
+2016-08-08 17:05:00.3201 DEBUG Request did not match any routes.
+2016-08-08 17:05:00.3201 INFO Request finished in 6.1945ms 404 
+2016-08-08 17:05:00.3201 DEBUG Connection id "0HKTVIJ4EM57Q" completed keep alive response.
+2016-08-08 17:05:29.5557 INFO User profile is available. Using 'C:\Users\ersin.genel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2016-08-08 17:05:29.6153 DEBUG Hosting starting
+2016-08-08 17:05:29.6827 DEBUG Hosting started
+2016-08-08 17:05:29.8546 DEBUG Connection id "0HKTVIK731HIL" started.
+2016-08-08 17:05:29.9377 INFO Request starting HTTP/1.1 GET http://localhost:20584/api/v1/users  
+2016-08-08 17:05:30.1914 DEBUG Request successfully matched the route with name 'Users' and template 'api/v{version}/users'.
+2016-08-08 17:05:30.2519 DEBUG Executing action TeamTrack.Api.Controllers.UserController.Get (TeamTrack.Api)
+2016-08-08 17:05:30.2919 DEBUG System.InvalidOperationException occurred, checking if Entity Framework recorded this exception as resulting from a failed database operation.
+2016-08-08 17:05:30.2919 DEBUG Entity Framework did not record any exceptions due to failed database operations. This means the current exception is not a failed Entity Framework database operation, or the current exception occurred from a DbContext that was not obtained from request services.
+2016-08-08 17:05:30.5186 INFO Request finished in 596.0454ms 500 text/html; charset=utf-8
+2016-08-08 17:05:30.5286 DEBUG Connection id "0HKTVIK731HIL" completed keep alive response.
+2016-08-08 17:07:19.8372 DEBUG Connection id "0HKTVIK731HIL" received FIN.
+2016-08-08 17:07:19.8372 DEBUG Connection id "0HKTVIK731HIL" disconnecting.
+2016-08-08 17:07:19.8372 DEBUG Connection id "0HKTVIK731HIL" sending FIN.
+2016-08-08 17:07:19.8532 DEBUG Connection id "0HKTVIK731HIL" sent FIN with status "0".
+2016-08-08 17:07:19.8532 DEBUG Connection id "0HKTVIK731HIL" stopped.
